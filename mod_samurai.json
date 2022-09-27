@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-1437241986629219/3631687587",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/9347010704",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
@@ -86,5 +86,33 @@
     "download":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Mods%20Samurai/Mods%20Samurai.zip",
     "description":"<div>\n<p style=\"text-align: justify;\">Mods Samurai</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
   }
+    ,
+  {
+    "id":8,
+    "name":"Outcast Samurai",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Outcast%20Samurai/Outcast%20Samurai.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Outcast%20Samurai/Outcast%20Samurai.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Outcast Samurai</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":9,
+    "name":"Samurai Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Samurai%20Mod/Samurai%20Mod.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Samurai%20Mod/Samurai%20Mod.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Samurai Mod</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":10,
+    "name":"Samurai Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Samurai%20Pack/Samurai%20Pack.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Samurai/Samurai%20Pack/Samurai%20Pack.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Samurai Pack</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    
   ]
 }
