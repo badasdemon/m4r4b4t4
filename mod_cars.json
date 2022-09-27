@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-1437241986629219/6597311017",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/7187789216",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -86,5 +86,275 @@
     "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cadillac%20Escalade/Cadillac%20Escalade.zip",
     "description":"<div>\n<p style=\"text-align: justify;\">Cadillac Escalade</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
   }
+    ,
+  {
+    "id":8,
+    "name":"Cyber Car",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cyber%20Car/Cyber%20Car.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cyber%20Car/Cyber%20Car.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Cyber Car</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":9,
+    "name":"DeLorean DMC-12",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">DeLorean DMC-12</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":10,
+    "name":"Ford bronco 2022",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20bronco%202022/Ford%20bronco%202022.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20bronco%202022/Ford%20bronco%202022.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Ford bronco 2022</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":11,
+    "name":"Ford GT Race 2016",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Ford GT Race 2016</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":12,
+    "name":"Hummer H3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hummer%20H3/Hummer%20H3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hummer%20H3/Hummer%20H3.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Hummer H3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":13,
+    "name":"Hyundai Elantra 4",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Hyundai Elantra 4</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":14,
+    "name":"Hyundai Elantra 2021",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Hyundai Elantra 2021</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":15,
+    "name":"Hyundai Tucson",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Tucson/Hyundai%20Tucson.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Tucson/Hyundai%20Tucson.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Hyundai Tucson</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":16,
+    "name":"KIA Cars",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Cars/KIA%20Cars.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Cars/KIA%20Cars.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">KIA Cars</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":17,
+    "name":"KIA Soul",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Soul/KIA%20Soul.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Soul/KIA%20Soul.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">KIA Soul</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":18,
+    "name":"Lamborghini",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini/Lamborghini.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini/Lamborghini.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Lamborghini</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":19,
+    "name":"Cadillac Escalade",
+    "category":"Mods",
+    "image":"https://aweu.net/",
+    "download":"https://aweu.net/",
+    "description":"<div>\n<p style=\"text-align: justify;\">Cadillac Escalade</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":20,
+    "name":"Lamborghini countach",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini%20countach/Lamborghini%20countach.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini%20countach/Lamborghini%20countach.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Lamborghini countach</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":21,
+    "name":"Mazda Miata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mazda%20Miata/Mazda%20Miata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mazda%20Miata/Mazda%20Miata.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Mazda Miata</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":23,
+    "name":"Mercedes-AMG GT",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Mercedes-AMG GT</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":24,
+    "name":"Mercedes-Benz W124",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Mercedes-Benz W124</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    ,
+  {
+    "id":25,
+    "name":"Nissan Skyline R34",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Nissan Skyline R34</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":26,
+    "name":"Nissan Xtrail t31",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Nissan Xtrail t31</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":27,
+    "name":"Peugeot 306 wagon",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Peugeot 306 wagon</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":28,
+    "name":"Pickup",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Pickup/Pickup.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Pickup/Pickup.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Pickup</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":29,
+    "name":"Porsche 911",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911/Porsche%20911.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911/Porsche%20911.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Porsche 911</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":30,
+    "name":"Porsche 911 Carrera Cabriolet",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Porsche 911 Carrera CabrioletMOD%20MELON/MARABATA/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.jpg</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":31,
+    "name":"PPG + Quickness",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">PPG + Quickness</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":32,
+    "name":"Range Rover Velar",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Range Rover Velar</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":33,
+    "name":"Rolls Royce",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls%20Royce/Rolls%20Royce.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls%20Royce/Rolls%20Royce.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Rolls Royce</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":34,
+    "name":"Rolls-Royce Phantom-5",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Rolls-Royce Phantom-5</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":35,
+    "name":"Suzuki Jimny",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Suzuki%20Jimny/Suzuki%20Jimny.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Suzuki%20Jimny/Suzuki%20Jimny.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Suzuki Jimny</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":36,
+    "name":"Tesla",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla/Tesla.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla/Tesla.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tesla</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":37,
+    "name":"Tesla Roadster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla%20Roadster/Tesla%20Roadster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla%20Roadster/Tesla%20Roadster.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Tesla Roadster</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":38,
+    "name":"Toyota Hilux",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Toyota%20Hilux/Toyota%20Hilux.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Toyota%20Hilux/Toyota%20Hilux.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Toyota Hilux</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":39,
+    "name":"VAZ 2101",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/VAZ%202101/VAZ%202101.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/VAZ%202101/VAZ%202101.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">VAZ 2101</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":40,
+    "name":"Volkswagen Passat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Volkswagen%20Passat/Volkswagen%20Passat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Volkswagen%20Passat/Volkswagen%20Passat.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Volkswagen Passat</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":41,
+    "name":"",
+    "category":"Willys MB",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Willys%20MB/Willys%20MB.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Willys%20MB/Willys%20MB.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Willys MB</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">example: Download/exampleMod/example.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod example: example.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your example.melsave here)</div></figure>\n</div>"
+  }
+    
   ]
 }
