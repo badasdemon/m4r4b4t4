@@ -15,11 +15,11 @@
       "interval_intertitial": 2,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "Education",
+      "high_paying_keyword_2": "Colleges",
+      "high_paying_keyword_3": "Online Classes",
+      "high_paying_keyword_4": "Bitcoin",
+      "high_paying_keyword_5": "Fitness",
       "status_app": "0",
       "link_redirect": "https://"
     }
