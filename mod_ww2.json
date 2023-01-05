@@ -10,11 +10,11 @@
       "interval_intertitial": 1,
       "initialize_sdk":"17cc7497d",
       "initialize_sdk_backup_ads":"17cc7497d",
-	    "high_paying_keyword_1": "Insurance",
-      "high_paying_keyword_2": "Loans",
-      "high_paying_keyword_3": "Mortgage",
-      "high_paying_keyword_4": "Attorney",
-	    "high_paying_keyword_5": "Credit",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
     }
