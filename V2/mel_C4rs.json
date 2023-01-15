@@ -1,0 +1,365 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Ambulance",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ambulance/Ambulance.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ambulance/Ambulance.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Aston Martin",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Aston%20Martin/Aston%20Martin.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Aston%20Martin/Aston%20Martin.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Audi 80 b4",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Audi%2080%20b4/Audi%2080%20b4.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Audi%2080%20b4/Audi%2080%20b4.zip",
+      "description":"file:///android_asset/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"BMW E 36 BOAR",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20E%2036%20BOAR/BMW%20E%2036%20BOAR.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20E%2036%20BOAR/BMW%20E%2036%20BOAR.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"BMW E34",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20E34/BMW%20E34.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20E34/BMW%20E34.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"BMW M5 F10 by Maksim_4672",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20M5%20F10%20by%20Maksim_4672/BMW%20M5%20F10%20by%20Maksim_4672.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/BMW%20M5%20F10%20by%20Maksim_4672/BMW%20M5%20F10%20by%20Maksim_4672.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Cadillac Escalade",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cadillac%20Escalade/Cadillac%20Escalade.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cadillac%20Escalade/Cadillac%20Escalade.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"Cyber Car",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cyber%20Car/Cyber%20Car.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Cyber%20Car/Cyber%20Car.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    ,
+  {
+    "id":9,
+    "name":"DeLorean DMC-12",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    ,
+  {
+    "id":10,
+    "name":"Ford bronco 2022",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20bronco%202022/Ford%20bronco%202022.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20bronco%202022/Ford%20bronco%202022.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Ford GT Race 2016",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Hummer H3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hummer%20H3/Hummer%20H3.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hummer%20H3/Hummer%20H3.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Hyundai Elantra 4",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Hyundai Elantra 2021",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"Hyundai Tucson",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Tucson/Hyundai%20Tucson.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Hyundai%20Tucson/Hyundai%20Tucson.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"KIA Cars",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Cars/KIA%20Cars.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Cars/KIA%20Cars.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"KIA Soul",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Soul/KIA%20Soul.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/KIA%20Soul/KIA%20Soul.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Lamborghini",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini/Lamborghini.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini/Lamborghini.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Cadillac Escalade",
+    "category":"Mods",
+    "image":"https://aweu.net/",
+    "download":"https://aweu.net/",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Lamborghini countach",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini%20countach/Lamborghini%20countach.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Lamborghini%20countach/Lamborghini%20countach.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Mazda Miata",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mazda%20Miata/Mazda%20Miata.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mazda%20Miata/Mazda%20Miata.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Mercedes-AMG GT",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    ,
+  {
+    "id":24,
+    "name":"Mercedes-Benz W124",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    ,
+  {
+    "id":25,
+    "name":"Nissan Skyline R34",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"Nissan Xtrail t31",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Peugeot 306 wagon",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"Pickup",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Pickup/Pickup.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Pickup/Pickup.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":29,
+    "name":"Porsche 911",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911/Porsche%20911.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911/Porsche%20911.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":30,
+    "name":"Porsche 911 Carrera Cabriolet",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":31,
+    "name":"PPG + Quickness",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":32,
+    "name":"Range Rover Velar",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":33,
+    "name":"Rolls Royce",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls%20Royce/Rolls%20Royce.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls%20Royce/Rolls%20Royce.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":34,
+    "name":"Rolls-Royce Phantom-5",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":35,
+    "name":"Suzuki Jimny",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Suzuki%20Jimny/Suzuki%20Jimny.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Suzuki%20Jimny/Suzuki%20Jimny.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":36,
+    "name":"Tesla",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla/Tesla.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla/Tesla.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":37,
+    "name":"Tesla Roadster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla%20Roadster/Tesla%20Roadster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Tesla%20Roadster/Tesla%20Roadster.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":38,
+    "name":"Toyota Hilux",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Toyota%20Hilux/Toyota%20Hilux.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Toyota%20Hilux/Toyota%20Hilux.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":39,
+    "name":"VAZ 2101",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/VAZ%202101/VAZ%202101.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/VAZ%202101/VAZ%202101.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":40,
+    "name":"Volkswagen Passat",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Volkswagen%20Passat/Volkswagen%20Passat.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Volkswagen%20Passat/Volkswagen%20Passat.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":41,
+    "name":"",
+    "category":"Willys MB",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Willys%20MB/Willys%20MB.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Cars/Willys%20MB/Willys%20MB.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    
+  ]
+}
