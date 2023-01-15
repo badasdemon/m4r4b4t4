@@ -1,0 +1,138 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Cosmic Garou Vs Serious Saitama",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"Demo Pack One Punch Man",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Demo%20Pack%20One%20Punch%20Man/Demo%20Pack%20One%20Punch%20Man.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Demo%20Pack%20One%20Punch%20Man/Demo%20Pack%20One%20Punch%20Man.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"Detailed Genos",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Detailed%20Genos/Detailed%20Genos.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Detailed%20Genos/Detailed%20Genos.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"Mochi Skills Pack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Mochi%20Skills%20Pack/Mochi%20Skills%20Pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Mochi%20Skills%20Pack/Mochi%20Skills%20Pack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"One Punch Man",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/One%20Punch%20Man/One%20Punch%20Man.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/One%20Punch%20Man/One%20Punch%20Man.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":6,
+      "name":"ONE PUNCH MAN MOD",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/ONE%20PUNCH%20MAN%20MOD/ONE%20PUNCH%20MAN%20MOD.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/ONE%20PUNCH%20MAN%20MOD/ONE%20PUNCH%20MAN%20MOD.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":7,
+      "name":"One Punch Man Mod 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/One%20Punch%20Man%20Mod%202/One%20Punch%20Man%20Mod%202.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/One%20Punch%20Man%20Mod%202/One%20Punch%20Man%20Mod%202.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":8,
+      "name":"Saitama",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama/Saitama.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama/Saitama.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":9,
+      "name":"Saitama Character Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20Character%20Mod/Saitama%20Character%20Mod.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20Character%20Mod/Saitama%20Character%20Mod.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":10,
+      "name":"Saitama Mod + Serious Mode",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20Mod%20%2B%20Serious%20Mode/Saitama%20Mod%20%2B%20Serious%20Mode.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20Mod%20%2B%20Serious%20Mode/Saitama%20Mod%20%2B%20Serious%20Mode.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":11,
+      "name":"Saitama mod by MnMs",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20mod%20by%20MnMs/Saitama%20mod%20by%20MnMs.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Saitama/Saitama%20mod%20by%20MnMs/Saitama%20mod%20by%20MnMs.zip?",
+      "description":"file:///android_asset/ueue.html"
+    }
+    
+  ]
+}
