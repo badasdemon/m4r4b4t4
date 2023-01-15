@@ -37,66 +37,51 @@
   [
     {
       "id":1,
-      "name":"",
+      "name":"Seal's WW2",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/Seal's%20WW2/Seal's%20WW2.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/Seal's%20WW2/Sealls_WW2_Mod.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
+    },
     {
       "id":2,
-      "name":"",
+      "name":"US Army",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/US%20Army/US%20Army.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/US%20Army/USArmy.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
+    },
     {
       "id":3,
-      "name":"",
+      "name":"WW2 mod pack",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/WW2%20mod%20pack/WW2%20mod%20pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/WW2%20mod%20pack/WW2%20mod%20pack.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
-    {
-      "id":4,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+   },
+   {
+    "id":4,
+    "name":"WW2 Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/WW2%20Pack/WW2%20Pack.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/WW2%20Pack/WW2%20Pack.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
-    {
-      "id":5,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+  },
+  {
+    "id":5,
+    "name":"WW2 VN",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/ww2%20VN/ww2%20VN.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/ww2%20VN/VNW%20mod%20pack.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
-    {
-      "id":6,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+  },
+  {
+    "id":6,
+    "name":"WW2 VN Vehicle",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/WW2/ww2%20VN%20Vehicle/ww2%20VN%20Vehicle.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/WW2/ww2%20VN%20Vehicle/ww2%20VN%20Vehicle.zip",
       "description":"file:///android_asset/ueue.html"
-    }
-    ,
-    {
-      "id":7,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"file:///android_asset/ueue.html"
-    }
-    
+  }
   ]
 }
