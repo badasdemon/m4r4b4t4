@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Green Rainbow Friend v2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Green%20Rainbow%20Friend%20v2/Green%20Rainbow%20Friend%20v2.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Green%20Rainbow%20Friend%20v2/Green%20Rainbow%20Friend%20v2.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"PURPLE RAINBOW FRIEND MOD",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/PURPLE%20RAINBOW%20FRIEND%20MOD/PURPLE%20RAINBOW%20FRIEND%20MOD.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/PURPLE%20RAINBOW%20FRIEND%20MOD/PURPLE%20RAINBOW%20FRIEND%20MOD.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"Rainbow Friend pack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friend%20pack/Rainbow%20Friend%20pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friend%20pack/Rainbow%20Friend%20pack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"Rainbow Friends",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friends/Rainbow%20Friends.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friends/Rainbow%20Friends.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Rainbow Friends 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friends%202/Rainbow%20Friends%202.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20Friends%202/Rainbow%20Friends%202.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":6,
+      "name":"Rainbow friends mod",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20friends%20mod/Rainbow%20friends%20mod.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20friends%20mod/Rainbow%20friends%20mod.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":7,
+      "name":"Rainbow friends mod 2.0",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20friends%20mod%202.0/Rainbow%20friends%20mod%202.0.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/Rainbow%20friends%20mod%202.0/Rainbow%20friends%20mod%202.0.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":8,
+      "name":"RAINBOW FRIENDS OFFICIALLY RELEASED",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":9,
+      "name":"YELLOW RAINBOW FRIEND",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/YELLOW%20RAINBOW%20FRIEND/YELLOW%20RAINBOW%20FRIEND.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Rainbow/YELLOW%20RAINBOW%20FRIEND/YELLOW%20RAINBOW%20FRIEND.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+  ]
+}
