@@ -1,0 +1,166 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"All Wubbox Saves",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/All%20Wubbox%20Saves/All%20Wubbox%20Saves.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/All%20Wubbox%20Saves/All%20Wubbox%20Saves.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"Earth Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Earth%20Wubbox/Earth%20Wubbox.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Earth%20Wubbox/Earth%20Wubbox.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"EARTH WUBBOX MOD PACK",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/EARTH%20WUBBOX%20MOD%20PACK/EARTH%20WUBBOX%20MOD%20PACK.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/EARTH%20WUBBOX%20MOD%20PACK/EARTH%20WUBBOX%20MOD%20PACK.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"EPIC PLANT WUBBOX",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/EPIC%20PLANT%20WUBBOX/EPIC%20PLANT%20WUBBOX.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/EPIC%20PLANT%20WUBBOX/EPIC%20PLANT%20WUBBOX.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"EVIL WUBBOX",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Evil%20Wubbox%20Melsave/Evil%20Wubbox%20Melsave.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Evil%20Wubbox%20Melsave/Evil%20Wubbox%20Melsave.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":6,
+      "name":"Evil Wubbox Melsave",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Evil%20Wubbox%20Melsave/Evil%20Wubbox%20Melsave.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Evil%20Wubbox%20Melsave/Evil%20Wubbox%20Melsave.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":7,
+      "name":"Fire Haven Epic Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Fire%20Haven%20Epic%20Wubbox/Fire%20Haven%20Epic%20Wubbox.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Fire%20Haven%20Epic%20Wubbox/Fire%20Haven%20Epic%20Wubbox.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+     ,
+    {
+      "id":8,
+      "name":"MSM Earth Island",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/MSM%20Earth%20Island/MSM%20Earth%20Island.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/MSM%20Earth%20Island/MSM%20Earth%20Island.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":9,
+      "name":"PLANT WUBBOX",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/PLANT%20WUBBOX/PLANT%20WUBBOX.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/PLANT%20WUBBOX/PLANT%20WUBBOX.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":10,
+      "name":"Water Wubbox",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Water%20Wubbox/Water%20Wubbox.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Water%20Wubbox/Water%20Wubbox.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":11,
+      "name":"WUBBOX",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/WUBBOX/WUBBOX.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/WUBBOX/WUBBOX.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":12,
+      "name":"Wubbox and Wubbox Egg",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubbox%20and%20Wubbox%20Egg/Wubbox%20and%20Wubbox%20Egg.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubbox%20and%20Wubbox%20Egg/Wubbox%20and%20Wubbox%20Egg.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":13,
+      "name":"Wubbox Melsave",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubbox%20Melsave/Wubbox%20Melsave.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubbox%20Melsave/Wubbox%20Melsave.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":14,
+      "name":"WUBBOX MOD PACK BY FMPG",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/WUBBOX%20MOD%20PACK%20BY%20FMPG/WUBBOX%20MOD%20PACK%20BY%20FMPG.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/WUBBOX%20MOD%20PACK%20BY%20FMPG/WUBBOX%20MOD%20PACK%20BY%20FMPG.zip",
+      "description":"file:///android_asset/ueue.html"
+    } ,
+    {
+      "id":15,
+      "name":"Wubboxes",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubboxes/Wubboxes.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Wubbox/Wubboxes/Wubboxes.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+  ]
+}
