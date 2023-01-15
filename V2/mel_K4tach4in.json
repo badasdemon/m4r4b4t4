@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Aki (Chainsaw man)",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Aki%20(Chainsaw%20man)/Aki%20(Chainsaw%20man).jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Aki%20(Chainsaw%20man)/Aki%20(Chainsaw%20man).zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"AKI (GUN DEVIL FORM) vs CHAINSAW MAN",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/AKI%20(GUN%20DEVIL%20FORM)%20vs%20CHAINSAW%20MAN/AKI%20(GUN%20DEVIL%20FORM)%20vs%20CHAINSAW%20MAN.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/AKI%20(GUN%20DEVIL%20FORM)%20vs%20CHAINSAW%20MAN/AKI%20(GUN%20DEVIL%20FORM)%20vs%20CHAINSAW%20MAN.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"Bomb Devil mod",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Bomb%20Devil%20mod/Bomb%20Devil%20mod.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Bomb%20Devil%20mod/Bomb%20Devil%20mod.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"Chainsaw Devil",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20Devil/Chainsaw%20Devil.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20Devil/Chainsaw%20Devil.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"Chainsaw man hybrids",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20man%20hybrids/Chainsaw%20man%20hybrids.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20man%20hybrids/Chainsaw%20man%20hybrids.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":6,
+      "name":"Chainsaw Man Pack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20Man%20Pack/Chainsaw%20Man%20Pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/Chainsaw%20Man%20Pack/Chainsaw%20Man%20Pack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":7,
+      "name":"CHAINSAW MAN vs KATANA MAN",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/CHAINSAW%20MAN%20vs%20KATANA%20MAN/CHAINSAW%20MAN%20vs%20KATANA%20MAN.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Katachain/CHAINSAW%20MAN%20vs%20KATANA%20MAN/CHAINSAW%20MAN%20vs%20KATANA%20MAN.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    
+  ]
+}
