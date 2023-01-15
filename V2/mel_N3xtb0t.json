@@ -37,66 +37,48 @@
   [
     {
       "id":1,
-      "name":"",
+      "name":"Happy Nextbot",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Happy%20Nextbot/Happy%20Nextbot.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Happy%20Nextbot/Happy%20Nextbot.zip",
       "description":"file:///android_asset/ueue.html"
     }
     ,
     {
       "id":2,
-      "name":"",
+      "name":"Nextbot mod V2",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nextbot%20mod%20V2/Nextbot%20mod%20V2.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nextbot%20mod%20V2/Nextbot%20mod%20V2.zip",
       "description":"file:///android_asset/ueue.html"
     }
     ,
     {
       "id":3,
-      "name":"",
+      "name":"Nextbots mod",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nextbots%20mod/Nextbots%20mod.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nextbots%20mod/Nextbots%20mod.zip",
       "description":"file:///android_asset/ueue.html"
     }
     ,
     {
       "id":4,
-      "name":"",
+      "name":"Nico Nextbots",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nico%20Nextbots/Nico%20Nextbots.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/Nico%20Nextbots/Nico%20Nextbots.zip",
       "description":"file:///android_asset/ueue.html"
     }
     ,
     {
       "id":5,
-      "name":"",
+      "name":"V2 BACKROOMS AND MORE",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/V2%20BACKROOMS%20AND%20MORE/V2%20BACKROOMS%20AND%20MORE.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Nextbot/V2%20BACKROOMS%20AND%20MORE/V2%20BACKROOMS%20AND%20MORE.zip",
       "description":"file:///android_asset/ueue.html"
     }
-    ,
-    {
-      "id":6,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"file:///android_asset/ueue.html"
-    }
-    ,
-    {
-      "id":7,
-      "name":"",
-      "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"file:///android_asset/ueue.html"
-    }
-    
+  
   ]
 }
