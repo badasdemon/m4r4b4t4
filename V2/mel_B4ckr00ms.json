@@ -1,0 +1,124 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"2 NPC from Backrooms",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/2%20NPC%20from%20Backrooms/2%20NPC%20from%20Backrooms.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/2%20NPC%20from%20Backrooms/2%20NPC%20from%20Backrooms.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Backrooms  by showcase",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20%20by%20showcase/Backrooms%20%20by%20showcase.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20%20by%20showcase/Backrooms%20mod%20by%20Kitchenboard.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Backrooms By Melonk",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20By%20Melonk/Backrooms%20By%20Melonk.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20By%20Melonk/Backrooms%20By%20Melonk.zip",
+      "description":"file:///android_asset/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Backrooms Entity",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Entity/Backrooms%20Entity.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Entity/backrooms%20entity.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Backrooms Monster",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/backrooms%20monster/backrooms%20monster.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/backrooms%20monster/backrooms%20entity.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Backrooms Monster 2",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Monster%202/Backrooms%20Monster%202.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Monster%202/Backrooms%20Monster%202.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Backrooms Monster 3",
+    "category":"Mods",
+    "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Monster%203/Backrooms%20Monster%203.jpg",
+    "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20Monster%203/Backrooms%20Monster%203.zip",
+      "description":"file:///android_asset/ueue.html"
+  }
+    
+   ,
+    {
+      "id":8,
+      "name":"Backrooms O",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20O/backrrom%20o.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20O/backrooms%20O.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":9,
+      "name":"Backrooms O Level",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20O%20Level/Backrooms%20O%20Level.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Backrooms%20O%20Level/Backrooms%20O%20Level.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":10,
+      "name":"Doors Pack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Doors%20Pack/Doors%20Pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Backrooms/Doors%20Pack/Doors%20Pack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+   
+  ]
+}
