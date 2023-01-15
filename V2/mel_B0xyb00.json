@@ -37,7 +37,7 @@
   [
     {
       "id":1,
-      "name":"",
+      "name":"Bendy the ink demon",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -46,7 +46,7 @@
     ,
     {
       "id":2,
-      "name":"",
+      "name":"Boxy Boo",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -55,7 +55,7 @@
     ,
     {
       "id":3,
-      "name":"",
+      "name":"Boxy Boo 2",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -64,7 +64,7 @@
     ,
     {
       "id":4,
-      "name":"",
+      "name":"Doll Poppy",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -73,7 +73,7 @@
     ,
     {
       "id":5,
-      "name":"",
+      "name":"Mod boxy boo",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -82,7 +82,7 @@
     ,
     {
       "id":6,
-      "name":"",
+      "name":"Mommy Long Leg",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
@@ -91,12 +91,36 @@
     ,
     {
       "id":7,
-      "name":"",
+      "name":"Poppy Hand",
       "category":"Mods",
       "image":"https://aweu.net/",
       "download":"https://aweu.net/",
       "description":"file:///android_asset/ueue.html"
     }
-    
+    ,
+    {
+      "id":8,
+      "name":"Poppy Playtime",
+      "category":"Mods",
+      "image":"https://aweu.net/",
+      "download":"https://aweu.net/",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":9,
+      "name":"Poppy Playtime 1 and 2 chapters",
+      "category":"Mods",
+      "image":"https://aweu.net/",
+      "download":"https://aweu.net/",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":10,
+      "name":"Poppy Playtime 2",
+      "category":"Mods",
+      "image":"https://aweu.net/",
+      "download":"https://aweu.net/",
+      "description":"file:///android_asset/ueue.html"
+    }
   ]
 }
