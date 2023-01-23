@@ -2,7 +2,7 @@
 	"Ads": [
 		{
 			"select_main_ads": "ADMOB",
-			"select_backup_ads": "APPLOVIN-D",
+			"select_backup_ads": "IRON",
 			"main_ads_banner": "ca-app-pub-1437241986629219/7181372208",
 			"main_ads_intertitial": "ca-app-pub-1437241986629219/5868290533",
 			"main_ads_natives": "ca-app-pub-1437241986629219/6103830922",
@@ -13,8 +13,8 @@
 			"switch_banner_natives": "1",
 			"on_off_native_listview": "1",
 			"interval_intertitial": 1,
-			"initialize_sdk": "",
-			"initialize_sdk_backup_ads": "",
+			"initialize_sdk": "185625455",
+			"initialize_sdk_backup_ads": "185625455",
 	"high_paying_keyword_1": "Email Marketing, Insurance, Sell House, Website Hosting, Ecommerce Software, Donate, Lawyer, Credit Card, Make Money Online, Money, Earn Money, Helath, Fitness, Cryptocurrency",
 	"high_paying_keyword_2": "Finance, Travel, Relationships, Date, Dating, Animals, Technology, Luxury",
 	"high_paying_keyword_3": "Bussiness, Makeup, Investing, Invest, Cars, Education, Affiliate Marketing, Lifestyle, Insurance, Health Food, Beauty, Wellness, Supplements,Forex, Entertainment, Beauty Tips",
