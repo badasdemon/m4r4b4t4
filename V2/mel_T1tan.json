@@ -2,7 +2,7 @@
 	"Ads": [
 		{
 			"select_main_ads": "ADMOB",
-			"select_backup_ads": "TITAN",
+			"select_backup_ads": "IRON",
 			"main_ads_banner": "ca-app-pub-1437241986629219/9430809178",
 			"main_ads_intertitial": "ca-app-pub-1437241986629219/7746741157",
 			"main_ads_natives": "ca-app-pub-1437241986629219/2494414479",
