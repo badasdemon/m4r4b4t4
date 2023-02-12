@@ -1,0 +1,195 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bonnie from FNAF",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":2,
+      "name":"Broken Freddy from FNAF 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":3,
+      "name":"FNAF 1",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%201/FNAF%201.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%201/Bonnie.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":4,
+      "name":"FNaF 1 Minipack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNaF%201%20Minipack/FNaF%201%20Minipack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNaF%201%20Minipack/FNaF%201%20Minipack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":5,
+      "name":"FNAF 2",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%202/FNAF%202.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%202/FNAF%202.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":6,
+      "name":"FNAF 9",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%209/FNAF%209.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%209/FNAF%209.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":7,
+      "name":"FNAF Mini Pack",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":8,
+      "name":"FNF Plush",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNF%20Plush/FNF%20Plush.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/FNF%20Plush/FNF%20Plush.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":9,
+      "name":"Freddy from FNAF",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Freddy%20from%20FNAF/Freddy%20from%20FNAF.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Freddy%20from%20FNAF/Freddy%20from%20FNAF.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":10,
+      "name":"Glemrock",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Glemrock/Glemrock.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Glemrock/Glemrock.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":11,
+      "name":"Map from the FNaF 1",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":12,
+      "name":"Monty from Fnaf 9",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Monty%20from%20Fnaf%209/Monty%20from%20Fnaf%209.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Monty%20from%20Fnaf%209/Monty%20from%20Fnaf%209.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":13,
+      "name":"NPC - Freddie Fazber",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":14,
+      "name":"NPC - Golden Freddy",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":15,
+      "name":"NPC from FNAF",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20from%20FNAF/NPC%20from%20FNAF.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20from%20FNAF/NPC%20from%20FNAF.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":16,
+      "name":"NPC Mundrop from Fnaf 9",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":17,
+      "name":"Security Brich",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Security%20Brich/Security%20Brich.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Security%20Brich/Security%20Brich.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+    ,
+    {
+      "id":18,
+      "name":"Sundrop",
+      "category":"Mods",
+      "image":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Sundrop/Sundrop.jpg",
+      "download":"https://aweu.net/MOD%20MELON/MARABATA/Fnaf/Sundrop/Sundrop.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+
+  ]
+}
