@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-1437241986629219/4417892313",
       "main_ads_intertitial":"ca-app-pub-1437241986629219/8165565638",
       "main_ads_natives":"ca-app-pub-1437241986629219/9287075614",
@@ -12,9 +12,9 @@
       "open_ads_admob":"ca-app-pub-1437241986629219/5347830606",
       "switch_banner_natives":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 1,
-      "initialize_sdk":"17cc7497d",
-      "initialize_sdk_backup_ads":"17cc7497d",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
