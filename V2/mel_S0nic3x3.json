@@ -12,7 +12,7 @@
       "open_ads_admob":"ca-app-pub-1437241986629219/4067446363",
       "switch_banner_natives":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 2,
+      "interval_intertitial": 1,
       "initialize_sdk":"744438157081087",
       "initialize_sdk_backup_ads":"744438157081087",
       "high_paying_keyword_1": "",
