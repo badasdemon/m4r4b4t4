@@ -1,0 +1,96 @@
+{
+  "Ads": [
+    {
+    "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Kick Buddy",
+      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Plant Wubbox",
+      "image": "file:///android_asset/plant_wubbox.jpg",
+      "link_mods": "null",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
+      "type": "B",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Broly",
+      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Balls",
+      "image": "file:///android_asset/Balls.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
+      "link_saves": "null",
+      "type": "W",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Naruto",
+      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Goku",
+      "image": "file:///android_asset/goku.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
+      "link_saves": "null",
+      "type": "C",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "Functional ChainsawMan",
+      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
+      "link_mods": "null",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
+      "type": "B",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    },
+    {
+      "name": "evil wubbox",
+      "image": "file:///android_asset/evil-wubbox-.webp",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
+      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
+      "type": "B",
+      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+    }
+  ]
+}
