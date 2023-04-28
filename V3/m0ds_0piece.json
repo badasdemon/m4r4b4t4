@@ -1,96 +1,407 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Ace",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Ace/Ace.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Ace/Ace%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Arlong and Saw",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Arlong%20and%20Saw/Arlong%20and%20Saw.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Arlong%20and%20Saw/Arlong%20and%20Saw%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bartholomew Kuma",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bartholomew%20Kuma/Bartholomew%20Kuma.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bartholomew%20Kuma/Bartholomew%20Kuma%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bartholomew Kuma vs StrawHats One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bartholomew%20Kuma%20vs%20StrawHats%20One%20Piece/Bartholomew%20Kuma%20vs%20StrawHats%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bartholomew%20Kuma%20vs%20StrawHats%20One%20Piece/Bartholomew%20Kuma%20vs%20StrawHats%20One%20Piece%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Benn Beckman Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Benn%20Beckman%20Mod/Benn%20Beckman%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Benn%20Beckman%20Mod/Benn%20Beckman%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "BlackBeard Pre and Post Timeskip",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/BlackBeard%20Pre%20and%20Post%20Timeskip/BlackBeard%20Pre%20and%20Post%20Timeskip.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/BlackBeard%20Pre%20and%20Post%20Timeskip/BlackBeard%20Pre%20and%20Post%20Timeskip.jpg",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Blueno with Door Skill",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Blueno%20with%20Door%20Skill/Blueno%20with%20Door%20Skill.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Blueno%20with%20Door%20Skill/Blueno%20with%20Door%20Skill.jpg",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Boa Hancock Detailed and Mero Mero Beam",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Boa%20Hancock%20Detailed%20and%20Mero%20Mero%20Beam/Boa%20Hancock%20Detailed%20and%20Mero%20Mero%20Beam.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Boa%20Hancock%20Detailed%20and%20Mero%20Mero%20Beam/Boa%20Hancock%20Detailed%20and%20Mero%20Mero%20Beam%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bounce Man Gear 4th Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bounce%20Man%20Gear%204th%20Mod/Bounce%20Man%20Gear%204th%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Bounce%20Man%20Gear%204th%20Mod/Bounce%20Man%20Gear%204th%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Brook Soul King With Brook shark Guitar",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Brook%20Soul%20King%20With%20Brook%20shark%20Guitar/Brook%20Soul%20King%20With%20Brook%20shark%20Guitar.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Brook%20Soul%20King%20With%20Brook%20shark%20Guitar/Brook%20Soul%20King%20With%20Brook%20shark%20Guitar%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Chopper Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Chopper%20Mod/Chopper%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Chopper%20Mod/Chopper%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Detailed Sabo and his weapon and Mera Mera",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Detailed%20Sabo%20and%20his%20weapon%20and%20Mera%20Mera/Detailed%20Sabo%20and%20his%20weapon%20and%20Mera%20Mera.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Detailed%20Sabo%20and%20his%20weapon%20and%20Mera%20Mera/Detailed%20Sabo%20and%20his%20weapon%20and%20Mera%20Mera%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Fujitora and Doflamingo",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Fujitora%20and%20Doflamingo/Fujitora%20and%20Doflamingo.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Fujitora%20and%20Doflamingo/Fujitora%20and%20Doflamingo%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Katakuri V2",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Katakuri%20V2/Katakuri%20V2.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Katakuri%20V2/Katakuri%20V2%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Katakuri without Scarf and Mochi Skills Dough",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Katakuri%20without%20Scarf%20and%20Mochi%20Skills%20Dough/Katakuri%20without%20Scarf%20and%20Mochi%20Skills%20Dough.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Katakuri%20without%20Scarf%20and%20Mochi%20Skills%20Dough/Katakuri%20without%20Scarf%20and%20Mochi%20Skills%20Dough%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Law Onigashima Pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Law%20Onigashima%20Pack/Law%20Onigashima%20Pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Law%20Onigashima%20Pack/Law%20Onigashima%20Pack%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy Bounty Rush Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Bounty%20Rush%20Mod/Luffy%20Bounty%20Rush%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Bounty%20Rush%20Mod/Luffy%20Bounty%20Rush%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy Gear 5 Detailed Joy Boy",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Gear%205%20Detailed%20Joy%20Boy/Luffy%20Gear%205%20Detailed%20Joy%20Boy.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Gear%205%20Detailed%20Joy%20Boy/Luffy%20Gear%205%20Detailed%20Joy%20Boy%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy Onigashima Gear 5 vs Rob Lucci Awaken",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Onigashima%20Gear%205%20vs%20Rob%20Lucci%20Awaken/Luffy%20Onigashima%20Gear%205%20vs%20Rob%20Lucci%20Awaken.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Onigashima%20Gear%205%20vs%20Rob%20Lucci%20Awaken/Luffy%20Onigashima%20Gear%205%20vs%20Rob%20Lucci%20Awaken%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy Pack Mod + Gear 2",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Pack%20Mod%20%2B%20Gear%202/Luffy%20Pack%20Mod%20%2B%20Gear%202.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Pack%20Mod%20%2B%20Gear%202/Luffy%20Pack%20Mod%20%2B%20Gear%202%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy Pre Timeskip Pack + Gomu Gomu no",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Pre%20Timeskip%20Pack%20%2B%20Gomu%20Gomu%20no/Luffy%20Pre%20Timeskip%20Pack%20%2B%20Gomu%20Gomu%20no.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20Pre%20Timeskip%20Pack%20%2B%20Gomu%20Gomu%20no/Luffy%20Pre%20Timeskip%20Pack%20%2B%20Gomu%20Gomu%20no%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy wano v2 with Haki",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20wano%20v2%20with%20Haki/Luffy%20wano%20v2%20with%20Haki.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Luffy%20wano%20v2%20with%20Haki/Luffy%20wano%20v2%20with%20Haki%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Magellan and Venom Skill",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Magellan%20and%20Venom%20Skill/Magellan%20and%20Venom%20Skill.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Magellan%20and%20Venom%20Skill/Magellan%20and%20Venom%20Skill%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monkey D Dragon",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Monkey%20D%20Dragon/Monkey%20D%20Dragon.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Monkey%20D%20Dragon/Monkey%20D%20Dragon%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Nami Pack + Sorcery clima tact One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nami%20Pack%20%2B%20Sorcery%20clima%20tact%20One%20Piece/Nami%20Pack%20%2B%20Sorcery%20clima%20tact%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nami%20Pack%20%2B%20Sorcery%20clima%20tact%20One%20Piece/Nami%20Pack%20%2B%20Sorcery%20clima%20tact%20One%20Piece%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Nico Robin Pack One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nico%20Robin%20Pack%20One%20Piece/Nico%20Robin%20Pack%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nico%20Robin%20Pack%20One%20Piece/Nico%20Robin%20Pack%20One%20Piece%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Nightmare Luffy Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nightmare%20Luffy%20Mod/Nightmare%20Luffy%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Nightmare%20Luffy%20Mod/Nightmare%20Luffy%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC - Luffy",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Luffy/NPC%20-%20Luffy.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Luffy/NPC%20-%20Luffy%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC - Roronoa Zoro",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Roronoa%20Zoro/NPC%20-%20Roronoa%20Zoro.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Roronoa%20Zoro/NPC%20-%20Roronoa%20Zoro%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC - Sanji",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Sanji/NPC%20-%20Sanji.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/NPC%20-%20Sanji/NPC%20-%20Sanji%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Oden with 2 Sword Style",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Oden%20with%202%20Sword%20Style/Oden%20with%202%20Sword%20Style.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Oden%20with%202%20Sword%20Style/Oden%20with%202%20Sword%20Style%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "One Piece misc pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/One%20Piece%20misc%20pack/One%20Piece%20misc%20pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/One%20Piece%20misc%20pack/One%20Piece%20misc%20pack%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "One Piece Pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/One%20Piece%20Pack/One%20Piece%20Pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/One%20Piece%20Pack/One%20Piece%20Pack%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rayleigh Prime and Sword Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Rayleigh%20Prime%20and%20Sword%20Mod/Rayleigh%20Prime%20and%20Sword%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Rayleigh%20Prime%20and%20Sword%20Mod/Rayleigh%20Prime%20and%20Sword%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rob Lucci",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Rob%20Lucci/Rob%20Lucci.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Rob%20Lucci/Rob%20Lucci%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Roger v2 Detailed head Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Roger%20v2%20Detailed%20head%20Mod/Roger%20v2%20Detailed%20head%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Roger%20v2%20Detailed%20head%20Mod/Roger%20v2%20Detailed%20head%20Mod%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sanji and Zoro Pre Timeskip",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Sanji%20and%20Zoro%20Pre%20Timeskip/Sanji%20and%20Zoro%20Pre%20Timeskip.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Sanji%20and%20Zoro%20Pre%20Timeskip/Sanji%20and%20Zoro%20Pre%20Timeskip%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Shiki the Golden Lion",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Shiki%20the%20Golden%20Lion/Shiki%20the%20Golden%20Lion.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Shiki%20the%20Golden%20Lion/Shiki%20the%20Golden%20Lion%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Shiryu of the rain and Raiu",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Shiryu%20of%20the%20rain%20and%20Raiu/Shiryu%20of%20the%20rain%20and%20Raiu.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Shiryu%20of%20the%20rain%20and%20Raiu/Shiryu%20of%20the%20rain%20and%20Raiu%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Small pack One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Small%20pack%20One%20Piece/Small%20pack%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Small%20pack%20One%20Piece/Small%20Pack%20One%20Piece%20M.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Small%20pack%20One%20Piece/Small%20Pack%20One%20Piece%20S.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Thousand Sunny",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Thousand%20Sunny/Thousand%20Sunny.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Thousand%20Sunny/Thousand%20Sunny%20S.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Update pack One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Update%20pack%20One%20Piece/Update%20pack%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Update%20pack%20One%20Piece/Update%20pack%20One%20Piece%20M.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Update%20pack%20One%20Piece/Update%20pack%20One%20Piece%20S.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Uta Hoodie Pack One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Uta%20Hoodie%20Pack%20One%20Piece/Uta%20Hoodie%20Pack%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Uta%20Hoodie%20Pack%20One%20Piece/Uta%20Hoodie%20Pack%20One%20Piece%20%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Uta Mod One Piece",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Uta%20Mod%20One%20Piece/Uta%20Mod%20One%20Piece.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Uta%20Mod%20One%20Piece/Uta%20Mod%20One%20Piece%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Yamato",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Yamato/Yamato.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Yamato/Yamato%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Yonko Emperor Pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Yonko%20Emperor%20Pack/Yonko%20Emperor%20Pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Yonko%20Emperor%20Pack/Yonko%20Emperor%20Pack%20M.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zoro Sword",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Zoro%20Sword/Zoro%20Sword.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Zoro%20Sword/Zoro%20Sword%20M.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Onepiece%20Modsave/Zoro%20Sword/Zoro%20Sword%20%20S.zip",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
