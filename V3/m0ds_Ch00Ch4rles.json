@@ -1,96 +1,262 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Choo - Choo Charles",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20-%20Choo%20Charles/Choo%20-%20Choo%20Charles.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20-%20Choo%20Charles/S%20Choo%20-%20Choo%20Charles.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles/Choo%20Choo%20Charles.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles/S%20Choo%20Choo%20Charles.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles + Yellow Train",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%20%2B%20Yellow%20Train/Choo%20Choo%20Charles%20%2B%20Yellow%20Train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%20%2B%20Yellow%20Train/S%20Choo%20Choo%20Charles%20%2B%20Yellow%20Train.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles 3",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%203/Choo%20Choo%20Charles%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%203/V%20Choo%20Choo%20Charles%203.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%203/S%20Choo%20Choo%20Charles%203.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles 2",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%202/Choo%20Choo%20Charles%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%202/S%20Choo%20Choo%20Charles%202.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles 4",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%204/Choo%20Choo%20Charles%204.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%204/S%20Choo%20Choo%20Charles%204.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles melsave",
+			"image": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%20melsave/Choo%20Choo%20Charles%20melsave.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Choo%20Choo%20Charles/Choo%20Choo%20Charles%20melsave/S%20Choo%20Choo%20Charles%20melsave.zip",
+			"description": ""
+		},
+		{
+			"name": "Charles",
+			"image": "https://aweu.net/MELONMASTER/Train/Charles/Charles.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Charles/S%20Charles.zip",
+			"description": ""
+		},
+		{
+			"name": "Choo Choo Charles",
+			"image": "https://aweu.net/MELONMASTER/Train/Choo%20Choo%20Charles/Choo%20Choo%20Charles.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Choo%20Choo%20Charles/S%20Choo%20Choo%20Charles.zip",
+			"description": ""
+		},
+		{
+			"name": "Cursed Thomas",
+			"image": "https://aweu.net/MELONMASTER/Train/Cursed%20Thomas/Cursed%20Thomas.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Cursed%20Thomas/S%20Cursed%20Thomas.zip",
+			"description": ""
+		},
+		{
+			"name": "Cused Thomas",
+			"image": "https://aweu.net/MELONMASTER/Train/Cused%20Thomas/Cused%20Thomas.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Cused%20Thomas/S%20Cused%20Thomas.zip",
+			"description": ""
+		},
+		{
+			"name": "Eating Train(HardMode)",
+			"image": "https://aweu.net/MELONMASTER/Train/Eating%20Train(HardMode)/Eating%20Train(HardMode).jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Eating%20Train(HardMode)/S%20Eating%20Train(HardMode).zip",
+			"description": ""
+		},
+		{
+			"name": "Edward The Man Eating Train",
+			"image": "https://aweu.net/MELONMASTER/Train/Edward%20The%20Man%20Eating%20Train/Edward%20The%20Man%20Eating%20Train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Edward%20The%20Man%20Eating%20Train/S%20Edward%20The%20Man%20Eating%20Train.zip",
+			"description": ""
+		},
+		{
+			"name": "Epic train",
+			"image": "https://aweu.net/MELONMASTER/Train/Epic%20train/Epic%20train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Epic%20train/S%20Epic%20Train.zip",
+			"description": ""
+		},
+		{
+			"name": "FlameThrower Thomas",
+			"image": "https://aweu.net/MELONMASTER/Train/FlameThrower%20Thomas/FlameThrower%20Thomas.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/FlameThrower%20Thomas/S%20FlameThrower%20Thomas.zip",
+			"description": ""
+		},
+		{
+			"name": "FT ZERO TANK STANDSFOR",
+			"image": "https://aweu.net/MELONMASTER/Train/FT%20ZERO%20TANK%20STANDSFOR/FT%20ZERO%20TANK%20STANDSFOR.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/FT%20ZERO%20TANK%20STANDSFOR/S%20FT%20ZERO%20TANK%20STANDSFOR.zip",
+			"description": ""
+		},
+		{
+			"name": "Hell Charles",
+			"image": "https://aweu.net/MELONMASTER/Train/Hell%20Charles/Hell%20Charles.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Hell%20Charles/S%20Hell%20Charles.zip",
+			"description": ""
+		},
+		{
+			"name": "High-speed train",
+			"image": "https://aweu.net/MELONMASTER/Train/High-speed%20train/High-speed%20train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/High-speed%20train/S%20High-speed%20train.zip",
+			"description": ""
+		},
+		{
+			"name": "Iron travel",
+			"image": "https://aweu.net/MELONMASTER/Train/Iron%20travel/Iron%20travel.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Train/Iron%20travel/R%20Iron%20travel.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Metro",
+			"image": "https://aweu.net/MELONMASTER/Train/Metro/Metro.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Metro/S%20Metro.zip",
+			"description": ""
+		},
+		{
+			"name": "Sasha Bratin",
+			"image": "https://aweu.net/MELONMASTER/Train/Sasha%20Bratin/Sasha%20Bratin.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Sasha%20Bratin/S%20Sasha%20Bratin.zip",
+			"description": ""
+		},
+		{
+			"name": "Steam train",
+			"image": "https://aweu.net/MELONMASTER/Train/Steam%20train/Steam%20train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Steam%20train/S%20Steam%20train.zip",
+			"description": ""
+		},
+		{
+			"name": "Subway Train",
+			"image": "https://aweu.net/MELONMASTER/Train/Subway%20Train/Subway%20Train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Subway%20Train/S%20Subway%20Train.zip",
+			"description": ""
+		},
+		{
+			"name": "Train",
+			"image": "https://aweu.net/MELONMASTER/Train/Train/Train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train/S%20Train.zip",
+			"description": ""
+		},
+		{
+			"name": "Train 2",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%202/Train%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train%202/S%20Train%202.zip",
+			"description": ""
+		},
+		{
+			"name": "Train 3",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%203/Train%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train%203/S%20Train%203.zip",
+			"description": ""
+		},
+		{
+			"name": "Train 4",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%204/Train%204.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train%204/S%20Train%204.zip",
+			"description": ""
+		},
+		{
+			"name": "Train 5",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%205/Train%205.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train%205/S%20Train%205.zip",
+			"description": ""
+		},
+		{
+			"name": "Train 6",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%206/Train%206.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Train%206/S%20Train%206.zip",
+			"description": ""
+		},
+		{
+			"name": "Train and Wagon",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%20and%20Wagon/Train%20and%20Wagon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Train/Train%20and%20Wagon/R%20Train%20and%20Wagon.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Train Mod",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%20Mod/Train%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Train/Train%20Mod/R%20Train%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Train With Wagons",
+			"image": "https://aweu.net/MELONMASTER/Train/Train%20With%20Wagons/Train%20With%20Wagons.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Train/Train%20With%20Wagons/R%20Train%20With%20Wagons.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Yellow Train",
+			"image": "https://aweu.net/MELONMASTER/Train/Yellow%20Train/Yellow%20Train.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Train/Yellow%20Train/S%20Yellow%20Train.zip",
+			"description": ""
+		}
+	]
 }
