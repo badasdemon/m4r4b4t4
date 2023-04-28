@@ -32,6 +32,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Ancient%20Armored%20Titan/Ancient%20Armored%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Ancient%20Armored%20Titan/R%20Ancient%20Armored%20Titan.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Ancient%20Armored%20Titan/S%20Ancient%20Armored%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -39,6 +40,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Ancient%20Warhammer/Ancient%20Warhammer.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Ancient%20Warhammer/R%20Ancient%20Warhammer.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Ancient%20Warhammer/S%20Ancient%20Warhammer.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -46,6 +48,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Armored%20Titan/Armored%20titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Armored%20Titan/R%20Armored%20Titan.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Armored%20Titan/S%20Armored%20titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -53,6 +56,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Attack%20on%20Melon/Attack%20on%20Melon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Attack%20on%20Melon/R%20Attack%20on%20Melon.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -60,6 +64,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Attack%20Titan/Attack%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Attack%20Titan/R%20Attack%20Titan.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Attack%20Titan/S%20Attack%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -67,6 +72,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Attack%20Titan%20mod/Attack%20Titan%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Attack%20Titan%20mod/R%20Attack%20Titan%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -74,6 +80,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/ATTACK%20TITAN%20RELEASED/ATTACK%20TITAN%20RELEASED.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/ATTACK%20TITAN%20RELEASED/S%20ATTACK%20TITAN%20RELEASED.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -81,6 +88,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/BLOOMY%202/BLOOMY%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/BLOOMY%202/S%20BLOOMY%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -88,6 +96,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Bloomy%20Trub/Bloomy%20Trub.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Bloomy%20Trub/R%20Bloomy%20Trub.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Bloomy%20Trub/S%20Bloomy%20Trub.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -95,6 +104,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Colossal%20Titan/Colossal%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Colossal%20Titan/R%20Colossal%20Titan.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Colossal%20Titan/S%20Colossal%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -102,6 +112,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Colossus%20and%20Berthold/Colossus%20and%20Berthold.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Colossus%20and%20Berthold/R%20Colossus%20and%20Berthold.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -109,6 +120,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Damaged%20MK3/Damaged%20MK3.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Damaged%20MK3/R%20Damaged%20MK3.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Damaged%20MK3/S%20Damaged%20MK3.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -116,6 +128,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Eren%20Attack%20Titan/Eren%20Attack%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Eren%20Attack%20Titan/R%20Eren%20Attack%20Titan.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -123,6 +136,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Eren%20Titan/Eren%20Titan.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Eren%20Titan/S%20Eren%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -130,6 +144,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Eva%2001/Eva%2001.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Eva%2001/R%20Eva%2001.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Eva%2001/S%20Eva%2001.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -137,6 +152,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/EVA%2002/EVA%2002.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/EVA%2002/R%20EVA%2002.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/EVA%2002/S%20EVA%2002.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -144,6 +160,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/EVIL%20CHAINSAW%20MAN/EVIL%20CHAINSAW%20MAN.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/EVIL%20CHAINSAW%20MAN/R%20EVIL%20CHAINSAW%20MAN.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/EVIL%20CHAINSAW%20MAN/S%20EVIL%20CHAINSAW%20MAN.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -151,6 +168,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Avenger/Gipsy%20Avenger.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Avenger/R%20Gipsy%20Avenger.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Avenger/S%20Gipsy%20Avenger.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -158,6 +176,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Danger%20vs%20Knifehead/Gipsy%20Danger%20vs%20Knifehead.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Danger%20vs%20Knifehead/R%20Gipsy%20Danger%20vs%20Knifehead.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Gipsy%20Danger%20vs%20Knifehead/S%20Gipsy%20Danger%20vs%20Knifehead.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -165,6 +184,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Half%20Titan/Half%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Half%20Titan/R%20Half%20Titan.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Half%20Titan/S%20Half%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -172,6 +192,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Heisei%20Godzilla/Heisei%20Godzilla.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Heisei%20Godzilla/R%20Heisei%20Godzilla.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Heisei%20Godzilla/S%20Heisei%20Godzilla.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -179,6 +200,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Ironman%20MK3/Ironman%20MK3.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Ironman%20MK3/R%20Ironman%20MK3.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Ironman%20MK3/S%20Ironman%20MK3.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -186,6 +208,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Jaw%20Titan/Jaw%20Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Jaw%20Titan/R%20Jaw%20Titan.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -193,6 +216,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/KIRYU/KIRYU.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/KIRYU/R%20KIRYU.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/KIRYU/S%20KIRYU.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -200,6 +224,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/MK2%20ironman/MK2%20ironman.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/MK2%20ironman/R%20MK2%20ironman.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/MK2%20ironman/S%20MK2%20ironman.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -207,6 +232,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/MSG%20sniper/MSG%20sniper.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/MSG%20sniper/R%20MSG%20sniper.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/MSG%20sniper/S%20MSG%20sniper.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -214,6 +240,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Obsidian%20Fury/Obsidian%20Fury.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Obsidian%20Fury/R%20Obsidian%20Fury.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Obsidian%20Fury/S%20Obsidian%20Fury.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -221,6 +248,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Optimus%20Prime%20The%20last%20knight/Optimus%20Prime%20The%20last%20knight.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Optimus%20Prime%20The%20last%20knight/R%20Optimus%20Prime%20The%20last%20knight.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Optimus%20Prime%20The%20last%20knight/S%20Optimus%20Prime%20The%20last%20knight.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -228,6 +256,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Otachi%20Kaiju/Otachi%20Kaiju.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Otachi%20Kaiju/R%20Otachi%20Kaiju.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Otachi%20Kaiju/S%20Otachi%20Kaiju.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -235,6 +264,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Pure%20Titan/Pure%20Titan.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Pure%20Titan/S%20Pure%20Titan.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -242,6 +272,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Striker%20Eureka/Striker%20Eureka.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Striker%20Eureka/R%20Striker%20Eureka.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Striker%20Eureka/S%20Striker%20Eureka.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -249,6 +280,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Titan/Titan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Titan/R%20Titan.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -256,6 +288,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Titan%20mod/Titan%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Titan%20mod/R%20Titan%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -263,6 +296,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Titans%20Shingeki%20no%20kyojin/Titans%20Shingeki%20no%20kyojin.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Titan/Titans%20Shingeki%20no%20kyojin/R%20Titans%20Shingeki%20no%20kyojin.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Titans%20Shingeki%20no%20kyojin/S%20Titans%20Shingeki%20no%20kyojin.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -270,6 +304,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/TITANUS%20RODAN/TITANUS%20RODAN.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/TITANUS%20RODAN/S%20TITANUS%20RODAN.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -277,6 +312,7 @@
 			"image": "https://aweu.net/MELONMASTER/Titan/Wall%20Titan/Wall%20Titan.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Titan/Wall%20Titan/S%20Wall%20Titan.zip",
+			"type": "C",
 			"description": ""
 		}
 	]
