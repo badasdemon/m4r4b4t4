@@ -32,6 +32,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Cosmic%20Garou%20Vs%20Serious%20Saitama/R%20Cosmic%20Garou%20Vs%20Serious%20Saitama.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -39,6 +40,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Demo%20Pack%20One%20Punch%20Man/Demo%20Pack%20One%20Punch%20Man.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Demo%20Pack%20One%20Punch%20Man/R%20Demo%20Pack%20One%20Punch%20Man.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -46,6 +48,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Detailed%20Genos/Detailed%20Genos.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Detailed%20Genos/R%20Detailed%20Genos.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -53,6 +56,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Mochi%20Skills%20Pack/Mochi%20Skills%20Pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Mochi%20Skills%20Pack/R%20Mochi%20Skills%20Pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -60,6 +64,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/One%20Punch%20Man/One%20Punch%20Man.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/One%20Punch%20Man/R%20One%20Punch%20Man.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -67,6 +72,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/ONE%20PUNCH%20MAN%20MOD/ONE%20PUNCH%20MAN%20MOD.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/ONE%20PUNCH%20MAN%20MOD/R%20ONE%20PUNCH%20MAN%20MOD.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Saitama/ONE%20PUNCH%20MAN%20MOD/S%20ONE%20PUNCH%20MAN%20MOD.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -74,6 +80,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/One%20Punch%20Man%20Mod%202/One%20Punch%20Man%20Mod%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Saitama/One%20Punch%20Man%20Mod%202/S%20One%20Punch%20Man%20Mod%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -81,6 +88,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Saitama/Saitama.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Saitama/R%20Saitama.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -88,6 +96,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Saitama%20Character%20Mod/Saitama%20Character%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Saitama%20Character%20Mod/R%20Saitama%20Character%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -95,6 +104,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Saitama%20Mod%20%2B%20Serious%20Mode/Saitama%20Mod%20%2B%20Serious%20Mode.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Saitama%20Mod%20%2B%20Serious%20Mode/R%20Saitama%20Mod%20%2B%20Serious%20Mode.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -102,6 +112,7 @@
 			"image": "https://aweu.net/MELONMASTER/Saitama/Saitama%20mod%20by%20MnMs/Saitama%20mod%20by%20MnMs.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Saitama/Saitama%20mod%20by%20MnMs/R%20Saitama%20mod%20by%20MnMs.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -109,6 +120,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Broly%20in%20Melon/Broly%20in%20Melon.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Broly/Broly%20in%20Melon/S%20Broly%20in%20Melon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -116,6 +128,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Broly%20Mod%20Pack/Broly%20Mod%20Pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Broly%20Mod%20Pack/V%20Broly%20Mod%20Pack.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -123,6 +136,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Broly%20Mod%20Showcase/Broly%20Mod%20Showcase.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Broly%20Mod%20Showcase/V%20Broly_Base_Armored.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -130,6 +144,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/DBS%20LSSJ%20Broly%20and%20MUI%20Goku/DBS%20LSSJ%20Broly%20and%20MUI%20Goku.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Broly/DBS%20LSSJ%20Broly%20and%20MUI%20Goku/S%20%20DBS%20LSSJ%20Broly%20and%20MUI%20Goku.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -137,6 +152,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Dbz%20broly%20Mod%20Showcase/Dbz%20broly%20Mod%20Showcase.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Dbz%20broly%20Mod%20Showcase/V%20Dbz%20broly%20Mod%20Showcase.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -144,6 +160,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20Character/Dragon%20Ball%20Character.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20Character/S%20Dragon%20Ball%20Character.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -151,6 +168,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20mod/Dragon%20Ball%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20mod/V%20Dragon%20Ball%20mod.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -158,6 +176,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20mod%202/Dragon%20Ball%20mod%202.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20mod%202/S%20Dragon%20Ball%20mod%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -165,6 +184,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20Mod%203/Dragon%20Ball%20Mod%203.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Dragon%20Ball%20Mod%203/V%20Dragon%20Ball%20Mod%203.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -172,6 +192,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Goku%20all%20forms%20mod/Goku%20all%20forms%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Goku%20all%20forms%20mod/V%20Goku%20all%20forms%20mod.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -179,6 +200,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Goku%20mod/Goku%20mod.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Broly/Goku%20mod/S%20Goku%20mod.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -186,6 +208,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/Goku%20mod%202/Goku%20mod%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/Goku%20mod%202/V%20Goku%20mod%202.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -193,6 +216,7 @@
 			"image": "https://aweu.net/MELONMASTER/Broly/SON%20GOKU/SON%20GOKU.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Broly/SON%20GOKU/V%20SON%20GOKU.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -200,6 +224,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Broly%20in%20Melon/Broly%20in%20Melon.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Dragonball/Broly%20in%20Melon/S%20Broly%20in%20Melon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -207,6 +232,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Broly%20Mod%20Pack/Broly%20Mod%20Pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Broly%20Mod%20Pack/V%20Broly%20Mod%20Pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -214,6 +240,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Broly%20Mod%20Showcase/Broly%20Mod%20Showcase.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Broly%20Mod%20Showcase/V%20Broly_Base_Armored.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -221,6 +248,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/DBS%20LSSJ%20Broly%20and%20MUI%20Goku/DBS%20LSSJ%20Broly%20and%20MUI%20Goku.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Dragonball/DBS%20LSSJ%20Broly%20and%20MUI%20Goku/S%20DBS%20LSSJ%20Broly%20and%20MUI%20Goku.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -228,6 +256,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Dbz%20broly%20Mod%20Showcase/Dbz%20broly%20Mod%20Showcase.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Dbz%20broly%20Mod%20Showcase/V%20Dbz%20broly%20Mod%20Showcase.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -235,6 +264,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20Character/Dragon%20Ball%20Character.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20Character/S%20Dragon%20Ball%20Character.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -242,6 +272,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20mod/Dragon%20Ball%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20mod/V%20Dragon%20Ball%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -249,6 +280,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20mod%202/Dragon%20Ball%20mod%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20mod%202/S%20Dragon%20Ball%20mod%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -256,6 +288,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20Mod%203/Dragon%20Ball%20Mod%203.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Dragon%20Ball%20Mod%203/V%20Dragon%20Ball%20Mod%203.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -263,6 +296,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Goku%20all%20forms%20mod/Goku%20all%20forms%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Goku%20all%20forms%20mod/V%20Goku%20all%20forms%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -270,6 +304,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Goku%20mod/Goku%20mod.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Dragonball/Goku%20mod/S%20Goku%20mod.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -277,6 +312,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/Goku%20mod%202/Goku%20mod%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/Goku%20mod%202/V%20Goku%20mod%202.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -284,6 +320,7 @@
 			"image": "https://aweu.net/MELONMASTER/Dragonball/SON%20GOKU/SON%20GOKU.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Dragonball/SON%20GOKU/V%20SON%20GOKU.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -291,6 +328,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/AKAINU%20%2B%20MAGMA%20SKILLS/AKAINU%20%2B%20MAGMA%20SKILLS.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/AKAINU%20%2B%20MAGMA%20SKILLS/V%20AKAINU%20%2B%20MAGMA%20SKILLS.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -298,6 +336,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world/V%20Dio%20%2B%20Shadow%20The%20World%2C%20The%20world.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -305,6 +344,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20jojo/Dio%20jojo.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20jojo/V%20Dio%20jojo.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -312,6 +352,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Heaven%20Ascended%20Dio/Heaven%20Ascended%20Dio.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Heaven%20Ascended%20Dio/R%20Heaven%20Ascended%20Dio.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -319,6 +360,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Hybrid%20KAIDO/Hybrid%20KAIDO.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Hybrid%20KAIDO/R%20Hybrid%20KAIDO.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -326,6 +368,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Adventure/Jojo%20Bizarre%20Adventure.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Adventure/R%20Jojo%20Bizarre%20Adventure.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -333,6 +376,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Mod%20Pack/Jojo%20Bizarre%20Mod%20Pack.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Mod%20Pack/S%20Jojo%20Bizarre%20Mod%20Pack.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -340,6 +384,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/JoJo%20Mod%20Pack/JoJo%20Mod%20Pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/JoJo%20Mod%20Pack/R%20JoJo%20Mod%20Pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -347,6 +392,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20pack/Jojo%20pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20pack/R%20Jojo%20pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -354,6 +400,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%26%20Star%20Platinum%20V3/Jotaro%20%26%20Star%20Platinum%20V3.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%26%20Star%20Platinum%20V3/R%20Jotaro%20%26%20Star%20Platinum%20V3.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -361,6 +408,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%2B%20Star%20platinum/Jotaro%20%2B%20Star%20platinum.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%2B%20Star%20platinum/R%20Jotaro%20%2B%20Star%20platinum.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -368,6 +416,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills/R%20Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -375,6 +424,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/kizaru%20%2B%204%20Skills%20with%20Logia%20effect/kizaru%20%2B%204%20Skills%20with%20Logia%20effect.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/kizaru%20%2B%204%20Skills%20with%20Logia%20effect/R%20kizaru%20%2B%204%20Skills%20with%20Logia%20effect.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -382,6 +432,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Leopard%20Hybrid/Leopard%20Hybrid.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Leopard%20Hybrid/R%20Leopard%20Hybrid.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -389,6 +440,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Luffy%20%2B%20Gear%202/Luffy%20%2B%20Gear%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Luffy%20%2B%20Gear%202/R%20Luffy%20%2B%20Gear%202.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -396,6 +448,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SBR(steel%20ball%20run)/SBR(steel%20ball%20run).jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SBR(steel%20ball%20run)/R%20SBR(steel%20ball%20run).zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -403,6 +456,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SENGOKU%20Buddha/SENGOKU%20Buddha.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SENGOKU%20Buddha/R%20SENGOKU%20Buddha.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -410,6 +464,7 @@
 			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Yami%20%2B%20Gura/Yami%20%2B%20Gura.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Yami%20%2B%20Gura/R%20Yami%20%2B%20Gura.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		}
 	]
