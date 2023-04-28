@@ -32,6 +32,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Bendy%20the%20ink%20demon/Bendy%20the%20ink%20demon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Bendy%20the%20ink%20demon/V%20Bendy%20the%20ink%20demon.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Boxy%20boo/Bendy%20the%20ink%20demon/S%20Bendy%20the%20ink%20demon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -39,6 +40,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Boxy%20Boo/Boxy%20Boo.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Boxy%20boo/Boxy%20Boo/S%20Boxy%20Boo.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -46,6 +48,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Boxy%20Boo%202/Boxy%20Boo%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Boxy%20Boo%202/V%20Boxy%20Boo%202.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Boxy%20boo/Boxy%20Boo%202/S%20Boxy%20Boo%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -53,6 +56,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Doll%20Poppy/Doll%20Poppy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Boxy%20boo/Doll%20Poppy/S%20Doll%20Poppy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -60,6 +64,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Mommy%20Long%20Leg/Mommy%20Long%20Leg.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Mommy%20Long%20Leg/V%20Mommy%20Long%20Leg.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -67,6 +72,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Hand/Poppy%20Hand.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Hand/V%20Poppy%20Hand.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -74,6 +80,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime/Poppy%20Playtime.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime/V%20Poppy%20Playtime.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -81,6 +88,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime%201%20and%202%20chapters/Poppy%20Playtime%201%20and%202%20chapters.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime%201%20and%202%20chapters/V%20Poppy%20Playtime%201%20and%202%20chapters.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -88,6 +96,7 @@
 			"image": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime%202/Poppy%20Playtime%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime%202/V%20Poppy%20Playtime%202.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Boxy%20boo/Poppy%20Playtime%202/S%20Poppy%20Playtime%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -95,6 +104,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/AmogUs%20Living%20Mod/AmogUs%20Living%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/AmogUs%20Living%20Mod/V%20AmogUs%20Living%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -102,6 +112,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Ben%2010%20%2B%20Heat%20Blast%20Mod/Ben%2010%20%2B%20Heat%20Blast%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Ben%2010%20%2B%20Heat%20Blast%20Mod/V%20Ben%2010%20%2B%20Heat%20Blast%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -109,6 +120,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Ben%2010%20Mod/Ben%2010%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Ben%2010%20Mod/V%20Ben%2010%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -116,6 +128,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/BEN%2010%20MOD%202/BEN%2010%20MOD%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/BEN%2010%20MOD%202/V%20BEN%2010%20MOD%202.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -123,6 +136,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Blue%20Mod/Blue%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Blue%20Mod/V%20Blue%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -130,6 +144,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Blueberry%20Mod/Blueberry%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Blueberry%20Mod/V%20Blueberry%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -137,6 +152,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Boxy%20Boo/Boxy%20Boo.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Boxy%20Boo/R%20Boxy%20Boo.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Boxy%20Boo/S%20Boxy%20Boo.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -144,6 +160,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Buff/Buff.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Buff/S%20Buff.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -151,6 +168,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20and%20Katana%20Man/Chainsaw%20Man%20and%20Katana%20Man.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20and%20Katana%20Man/R%20Chainsaw%20Man%20and%20Katana%20Man.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20and%20Katana%20Man/S%20Chainsaw%20Man%20and%20Katana%20Man.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -158,6 +176,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20Katana%20Man/Chainsaw%20Man%20Katana%20Man.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20Katana%20Man/R%20Chainsaw%20Man%20Katana%20Man.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Chainsaw%20Man%20Katana%20Man/S%20Chainsaw%20Man%20Katana%20Man.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -165,6 +184,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Dead%20pool%20And%20Kissy%20Missy/Dead%20pool%20And%20Kissy%20Missy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Dead%20pool%20And%20Kissy%20Missy/S%20Dead%20pool%20And%20Kissy%20Missy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -172,6 +192,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Garten%20Of%20BanBan/Garten%20Of%20BanBan.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Garten%20Of%20BanBan/V%20Garten%20Of%20BanBan.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -179,6 +200,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Garten%20of%20Banban%20Mod/Garten%20of%20Banban%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Garten%20of%20Banban%20Mod/V%20Garten%20of%20Banban%20Mod.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Garten%20of%20Banban%20Mod/S%20Garten%20of%20Banban%20Mod.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -186,6 +208,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Geometry%20dash%20mod/Geometry%20dash%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Geometry%20dash%20mod/V%20Geometry%20dash%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -193,6 +216,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20and%20Kissy/Huggy%20and%20Kissy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20and%20Kissy/S%20Huggy%20and%20Kissy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -200,6 +224,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy/Huggy%20Wuggy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy/S%20Huggy%20Wuggy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -207,6 +232,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%202/Huggy%20Wuggy%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%202/S%20Huggy%20Wuggy%202.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -214,6 +240,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%203/Huggy%20Wuggy%203.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%203/S%20Huggy%20Wuggy%203.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -221,6 +248,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20And%20Kissy%20Missy/Huggy%20Wuggy%20And%20Kissy%20Missy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20And%20Kissy%20Missy/S%20Huggy%20Wuggy%20And%20Kissy%20Missy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -228,6 +256,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20By%20AldwinBrix/Huggy%20Wuggy%20By%20AldwinBrix.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20By%20AldwinBrix/S%20Huggy%20Wuggy%20By%20AldwinBrix.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -235,6 +264,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20Melsave/Huggy%20Wuggy%20Melsave.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Huggy%20Wuggy%20Melsave/S%20Huggy%20Wuggy%20Melsave.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -242,6 +272,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Hybrid%20Green/Hybrid%20Green.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Hybrid%20Green/R%20Hybrid%20Green.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Hybrid%20Green/S%20Hybrid%20Green.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -249,6 +280,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Kiryu%20Godzilla/Kiryu%20Godzilla.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Kiryu%20Godzilla/R%20Kiryu%20Godzilla.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -256,6 +288,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Kissy%20Missy/Kissy%20Missy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Kissy%20Missy/S%20Kissy%20Missy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -263,6 +296,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mod%20Poppy%20Playtime%20Melon/Mod%20Poppy%20Playtime%20Melon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mod%20Poppy%20Playtime%20Melon/V%20Mod%20Poppy%20Playtime%20Melon.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mod%20Poppy%20Playtime%20Melon/S%20Mod%20Poppy%20Playtime%20Melon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -270,6 +304,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutan%20Yellow%20Orange/Mutan%20Yellow%20Orange.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutan%20Yellow%20Orange/V%20Mutan%20Yellow%20Orange.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutan%20Yellow%20Orange/S%20Mutan%20Yellow%20Orange.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -277,6 +312,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Green/Mutant%20Green.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Green/V%20Mutant%20Green.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Green/S%20Mutant%20Green.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -284,6 +320,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Rainbow/Mutant%20Rainbow.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Rainbow/R%20Mutant%20Rainbow.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Mutant%20Rainbow/S%20Mutant%20Rainbow.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -291,6 +328,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Nico%20Nextbots/Nico%20Nextbots.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Nico%20Nextbots/V%20Nico%20Nextbots.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -298,6 +336,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/NPC%20Huggy%20Kissy/NPC%20Huggy%20Kissy.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/NPC%20Huggy%20Kissy/S%20NPC%20Huggy%20Kissy.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -305,6 +344,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Pochita/Pochita.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Pochita/R%20Pochita.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Pochita/S%20Pochita.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -312,6 +352,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime/Poppy%20playtime.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime/V%20Poppy%20playtime.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime/S%20Poppy%20Playtime.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -319,6 +360,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%201%20and%202/Poppy%20Playtime%20Chapter%201%20and%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%201%20and%202/V%20Poppy%20Playtime%20Chapter%201%20and%202.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -326,6 +368,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%202/Poppy%20Playtime%20Chapter%202.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%202/V%20Poppy%20Playtime%20Chapter%202.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -333,6 +376,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%202%202.0/Poppy%20Playtime%20Chapter%202%202.0.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Chapter%202%202.0/V%20Poppy%20Playtime%20Chapter%202%202.0.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -340,6 +384,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Melon/Poppy%20Playtime%20Melon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Melon/R%20Poppy%20Playtime%20Melon.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Melon/S%20Poppy%20Playtime%20Melon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -347,6 +392,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Mod%20pack/Poppy%20Playtime%20Mod%20pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Poppy%20Playtime%20Mod%20pack/V%20Poppy%20Playtime%20Mod%20pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -354,6 +400,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Project%20Playtime/Project%20Playtime.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Project%20Playtime/S%20Project%20Playtime.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -361,6 +408,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Rainbow%20mod/Rainbow%20mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Rainbow%20mod/V%20Rainbow%20mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -368,6 +416,7 @@
 			"image": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Women%20%26%20New%20Huggy%20And%20Kissy%20%26%20Animatronic%20mod/Women%20%26%20New%20Huggy%20And%20Kissy%20%26%20Animatronic%20mod.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Poppy%20Playtime/Women%20%26%20New%20Huggy%20And%20Kissy%20%26%20Animatronic%20mod/S%20Women%20%26%20New%20Huggy%20And%20Kissy%20%26%20Animatronic%20mod.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -375,6 +424,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Batim/Batim.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Batim/V%20Batim.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -382,6 +432,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod/Bendy%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod/V%20Bendy%20Mod.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -389,6 +440,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/Bendy%20Mod%20Melon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/S%20The%20Bendy%E2%80%8B.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/S%20The%20Bendy%E2%80%8B.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -396,6 +448,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20v3/Bendy%20Mod%20v3.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20v3/V%20Bendy%20Mod%20v3.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -403,6 +456,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%2BCrusifix%20Melon/Bendy%20Mod%2BCrusifix%20Melon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%2BCrusifix%20Melon/V%20Bendy%20Mod%2BCrusifix%20Melon.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -410,6 +464,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/Bendy%20Pack%20Mod.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/V%20Bendy%20Pack%20Mod.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/S%20Beast%20Bendy%E2%80%8B.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -417,6 +472,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/V%20Bendy%20The%20ink%20Demon.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/S%20Bendy%20The%20ink%20Demon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -424,6 +480,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Crippipaste%20and%20Horror/V%20Crippipaste%20and%20Horror.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -431,6 +488,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Ink%20Demon/Ink%20Demon.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Ink%20Demon/V%20Ink%20Demon.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -438,6 +496,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20batim/Pack%20by%20batim.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20batim/V%20Pack%20by%20batim.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -445,6 +504,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20bendy/Pack%20by%20bendy.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20bendy/V%20Pack%20by%20bendy.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		}
 	]
