@@ -1,96 +1,157 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Hinata",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Hinata/Hinata.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Hinata/Hinata%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Kurama",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Kurama/Kurama.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Kurama/Kurama%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Modified Naruto Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Modified%20Naruto%20Mod/Modified%20Naruto%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Modified%20Naruto%20Mod/Modified%20Naruto%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Modified%20Naruto%20Mod/Modified%20Naruto%20Mod%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto Big Pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Big%20Pack/Naruto%20Big%20Pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Big%20Pack/Naruto%20Big%20Pack%20M.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Big%20Pack/Naruto%20Big%20Pack%20S.zip",
+			"description": ""
+		},
+		{
+			"name": "Naruto Bigpack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Bigpack/Naruto%20Bigpack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Bigpack/Naruto%20Bigpack%20M.zip",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20Bigpack/Naruto%20Bigpack%20S.zip",
+			"description": ""
+		},
+		{
+			"name": "Naruto mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod/Naruto%20mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod/Naruto%20mod%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto mod 2",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%202/Naruto%20mod%202.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%202/Naruto%20mod%202%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto mod 3",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%203/Naruto%20mod%203.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%203/Naruto%20mod%203%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto mod pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%20pack/Naruto%20mod%20pack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20mod%20pack/Naruto%20mod%20pack%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto modpack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20modpack/Naruto%20modpack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20modpack/Naruto%20modpack%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naruto On Melon",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20On%20Melon/Naruto%20On%20Melon.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Naruto%20On%20Melon/Naruto%20On%20Melon%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC small Akatsuki",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/NPC%20small%20Akatsuki/NPC%20small%20Akatsuki.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/NPC%20small%20Akatsuki/NPC%20small%20Akatsuki%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sakura",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sakura/Sakura.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sakura/Sakura%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sakura Haruno",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sakura%20Haruno/Sakura%20Haruno.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sakura%20Haruno/Sakura%20Haruno%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sasuke Uchiha",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sasuke%20Uchiha/Sasuke%20Uchiha.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Sasuke%20Uchiha/Sasuke%20Uchiha%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Susanoo Mod",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Susanoo%20Mod/Susanoo%20Mod.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Susanoo%20Mod/Susanoo%20Mod%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Zabuza Momochi",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Zabuza%20Momochi/Zabuza%20Momochi.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Naruto%20Modsave/Zabuza%20Momochi/Zabuza%20Momochi%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+	]
 }
