@@ -32,6 +32,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/96K6%20PANTSIR-S1/96K6%20PANTSIR-S1.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/96K6%20PANTSIR-S1/S%2096K6%20PANTSIR-S1.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -39,6 +40,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/AMX%20AC%20mle.%2048.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/R%20AMX%20AC%20mle.%2048.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/AMX%20AC%20mle.%2048/S%20AMX%20AC%20mle.%2048.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -46,6 +48,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Armored%20Truck%20-%20Flak%208.8/S%20Armored%20Truck%20-%20Flak%208.8.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -53,6 +56,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Bomber%20Ar234/Bomber%20Ar234.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Bomber%20Ar234/S%20Bomber%20Ar234.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -60,6 +64,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Combat%20Fighter%20-%20F15%20Eagle/Combat%20Fighter%20-%20F15%20Eagle.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Combat%20Fighter%20-%20F15%20Eagle/S%20Combat%20Fighter%20-%20F15%20Eagle.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -67,6 +72,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/F-22%20Raptor.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/R%20F-22%20Raptor.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/F-22%20Raptor/S%20F-22%20Raptor.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -74,6 +80,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/F16%20Fighting%20Falcon/S%20F16%20Fighting%20Falcon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -81,6 +88,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/FA-18EF%20Super%20Hornet/FA-18EF%20Super%20Hornet.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/FA-18EF%20Super%20Hornet/S%20FA-18EF%20Super%20Hornet.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -88,6 +96,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Fictional%20sau%20Archer/Fictional%20sau%20Archer.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Fictional%20sau%20Archer/S%20Fictional%20sau%20Archer.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -95,6 +104,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Fictional%20tank%20MG90%20A2/Fictional%20tank%20MG90%20A2.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Fictional%20tank%20MG90%20A2/S%20Fictional%20tank%20MG90%20A2.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -102,6 +112,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Hwachha/Hwachha.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Hwachha/S%20Hwachha.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -109,6 +120,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Is-1/Is-1.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Is-1/S%20Is-1.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -116,6 +128,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/Jet%20%20-%20KC%20RG.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/R%20Jet%20%20-%20KC%20RG.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Jet%20%20-%20KC%20RG/S%20Jet%20%20-%20KC%20RG.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -123,6 +136,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/LaGG-3-8/LaGG-3-8.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/LaGG-3-8/S%20LaGG%E2%80%8B.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -130,6 +144,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Neo%20IS-10%20fighter/Neo%20IS-10%20fighter.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Neo%20IS-10%20fighter/S%20Neo%20IS%2010%E2%80%8B.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -137,6 +152,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Pack%20on%20tanks/Pack%20on%20tanks.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Pack%20on%20tanks/S%20Pack%20on%20tanks.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -144,6 +160,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/PzKpfw%20lllA/PzKpfw%20lllA.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/PzKpfw%20lllA/S%20PzKpfw%20lllA.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -151,6 +168,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/SD%20KFZ%20221/SD%20KFZ%20221.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/SD%20KFZ%20221/S%20SD%20KFZ%20221.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -158,6 +176,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Seal's%20WW2/Seal's%20WW2.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/Seal's%20WW2/R%20Seal's%20WW2.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -165,6 +184,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/Soviet%20aircraft.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/R%20Soviet%20aircraft.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Soviet%20aircraft/S%20Soviet%20aircraft.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -172,6 +192,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/SU-27%20aircraft/SU-27%20aircraft.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/SU-27%20aircraft/S%20SU-27%20aircraft.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -179,6 +200,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Su57%20-%20Felon/Su57%20-%20Felon.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Su57%20-%20Felon/S%20Su57%20-%20Felon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -186,6 +208,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/T-14%20Armata/T-14%20Armata.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/T-14%20Armata/S%20T-14%20Armata.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -193,6 +216,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/T26E5%20Pershing.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/R%20T26E5%20Pershing.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/T26E5%20Pershing/S%20T26E5%20Pershing.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -200,6 +224,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Tank%20T72BZ/Tank%20T72BZ.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tank%20T72BZ/S%20Tank%20T72BZ.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -207,6 +232,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Tiger%20ll/Tiger%20ll.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tiger%20ll/S%20Tiger%20ll.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -214,6 +240,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Tracked%20truck%20-%20FLAK%2088/Tracked%20truck%20-%20FLAK%2088.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Tracked%20truck%20-%20FLAK%2088/S%20Tracked%20truck%20-%20FLAK%2088.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -221,6 +248,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Type%205%20Heavy%20Tank/Type%205%20Heavy%20Tank.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Type%205%20Heavy%20Tank/S%20Type%205%20Heavy%20Tank.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -228,6 +256,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Type%2010/Type%2010.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/Type%2010/R%20Type%2010.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Type%2010/S%20Type%2010.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -235,6 +264,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/US%20Army/US%20Army.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/US%20Army/R%20USArmy.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -242,6 +272,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Vogler%20cannon/Vogler%20cannon.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Vogler%20cannon/S%20Vogler%20cannon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -249,6 +280,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/WW2%20Pack.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/R%20WW2%20Pack.zip",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/WW2%20Pack/S%20WW2%20Pack.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -256,6 +288,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/ww2%20VN/ww2%20VN.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/WW2/ww2%20VN/R%20VNW%20mod%20pack.zip",
 			"link_saves": "null",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -263,6 +296,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/ww2%20VN%20Vehicle/ww2%20VN%20Vehicle.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/ww2%20VN%20Vehicle/S%20ww2%20VN%20Vehicle.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -270,6 +304,7 @@
 			"image": "https://aweu.net/MELONMASTER/WW2/Xm551%20Sheridan/Xm551%20Sheridan.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/WW2/Xm551%20Sheridan/S%20Xm551%20Sheridan.zip",
+			"type": "C",
 			"description": ""
 		}
 	]
