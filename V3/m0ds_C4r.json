@@ -1,96 +1,311 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Ambulance",
+			"image": "https://aweu.net/MELONMASTER/Cars/Ambulance/Ambulance.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ambulance/S%20Ambulance.zip",
+			"description": ""
+		},
+		{
+			"name": "Aston Martin",
+			"image": "https://aweu.net/MELONMASTER/Cars/Aston%20Martin/Aston%20Martin.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Aston%20Martin/S%20Aston%20Martin.zip",
+			"description": ""
+		},
+		{
+			"name": "Audi 80 b4",
+			"image": "https://aweu.net/MELONMASTER/Cars/Audi%2080%20b4/Audi%2080%20b4.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Audi%2080%20b4/S%20Audi%2080%20b4.zip",
+			"description": ""
+		},
+		{
+			"name": "BMW E 36 BOAR",
+			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20E%2036%20BOAR/BMW%20E%2036%20BOAR.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20E%2036%20BOAR/S%20BMW%20E%2036%20BOAR.zip",
+			"description": ""
+		},
+		{
+			"name": "BMW E34",
+			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20E34/BMW%20E34.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20E34/S%20BMW%20E34.zip",
+			"description": ""
+		},
+		{
+			"name": "BMW M5 F10 by Maksim_4672",
+			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20M5%20F10%20by%20Maksim_4672/BMW%20M5%20F10%20by%20Maksim_4672.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20M5%20F10%20by%20Maksim_4672/S%20BMW%20M5%20F10%20by%20Maksim_4672.zip",
+			"description": ""
+		},
+		{
+			"name": "Cadillac Escalade",
+			"image": "https://aweu.net/MELONMASTER/Cars/Cadillac%20Escalade/Cadillac%20Escalade.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Cadillac%20Escalade/S%20Cadillac%20Escalade.zip",
+			"description": ""
+		},
+		{
+			"name": "Cyber Car",
+			"image": "https://aweu.net/MELONMASTER/Cars/Cyber%20Car/Cyber%20Car.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Cyber%20Car/S%20Cyber%20Car.zip",
+			"description": ""
+		},
+		{
+			"name": "DeLorean DMC-12",
+			"image": "https://aweu.net/MELONMASTER/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/DeLorean%20DMC-12/S%20DeLorean%20DMC-12.zip",
+			"description": ""
+		},
+		{
+			"name": "Ford bronco 2022",
+			"image": "https://aweu.net/MELONMASTER/Cars/Ford%20bronco%202022/Ford%20bronco%202022.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ford%20bronco%202022/S%20Ford%20bronco%202022.zip",
+			"description": ""
+		},
+		{
+			"name": "Ford GT Race 2016",
+			"image": "https://aweu.net/MELONMASTER/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ford%20GT%20Race%202016/S%20Ford%20GT%20Race%202016.zip",
+			"description": ""
+		},
+		{
+			"name": "Hummer H3",
+			"image": "https://aweu.net/MELONMASTER/Cars/Hummer%20H3/Hummer%20H3.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hummer%20H3/S%20Hummer%20H3.zip",
+			"description": ""
+		},
+		{
+			"name": "Hyundai Elantra 4",
+			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%204/S%20Hyundai%20Elantra%204.zip",
+			"description": ""
+		},
+		{
+			"name": "Hyundai Elantra 2021",
+			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%202021/S%20Hyundai%20Elantra%202021.zip",
+			"description": ""
+		},
+		{
+			"name": "Hyundai Tucson",
+			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Tucson/Hyundai%20Tucson.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Tucson/S%20Hyundai%20Tucson.zip",
+			"description": ""
+		},
+		{
+			"name": "KIA Cars",
+			"image": "https://aweu.net/MELONMASTER/Cars/KIA%20Cars/KIA%20Cars.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/KIA%20Cars/S%20KIA%20Cars.zip",
+			"description": ""
+		},
+		{
+			"name": "KIA Soul",
+			"image": "https://aweu.net/MELONMASTER/Cars/KIA%20Soul/KIA%20Soul.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/KIA%20Soul/S%20KIA%20Soul.zip",
+			"description": ""
+		},
+		{
+			"name": "Lamborghini",
+			"image": "https://aweu.net/MELONMASTER/Cars/Lamborghini/Lamborghini.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Lamborghini/S%20Lamborghini.zip",
+			"description": ""
+		},
+		{
+			"name": "Lamborghini countach",
+			"image": "https://aweu.net/MELONMASTER/Cars/Lamborghini%20countach/Lamborghini%20countach.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Lamborghini%20countach/S%20Lamborghini%20countach.zip",
+			"description": ""
+		},
+		{
+			"name": "Mazda Miata",
+			"image": "https://aweu.net/MELONMASTER/Cars/Mazda%20Miata/Mazda%20Miata.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mazda%20Miata/S%20Mazda%20Miata.zip",
+			"description": ""
+		},
+		{
+			"name": "Mercedes-AMG GT",
+			"image": "https://aweu.net/MELONMASTER/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mercedes-AMG%20GT/S%20Mercedes-AMG%20GT.zip",
+			"description": ""
+		},
+		{
+			"name": "Mercedes-Benz W124",
+			"image": "https://aweu.net/MELONMASTER/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mercedes-Benz%20W124/S%20Mercedes-Benz%20W124.zip",
+			"description": ""
+		},
+		{
+			"name": "Nissan Skyline R34",
+			"image": "https://aweu.net/MELONMASTER/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Nissan%20Skyline%20R34/S%20Nissan%20Skyline%20R34.zip",
+			"description": ""
+		},
+		{
+			"name": "Nissan Xtrail t31",
+			"image": "https://aweu.net/MELONMASTER/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Nissan%20Xtrail%20t31/S%20Nissan%20Xtrail%20t31.zip",
+			"description": ""
+		},
+		{
+			"name": "Peugeot 306 wagon",
+			"image": "https://aweu.net/MELONMASTER/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Peugeot%20306%20wagon/S%20Peugeot%20306%20wagon.zip",
+			"description": ""
+		},
+		{
+			"name": "Pickup",
+			"image": "https://aweu.net/MELONMASTER/Cars/Pickup/Pickup.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Pickup/S%20Pickup.zip",
+			"description": ""
+		},
+		{
+			"name": "Porsche 911",
+			"image": "https://aweu.net/MELONMASTER/Cars/Porsche%20911/Porsche%20911.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Porsche%20911/S%20Porsche%20911.zip",
+			"description": ""
+		},
+		{
+			"name": "Porsche 911 Carrera Cabriolet",
+			"image": "https://aweu.net/MELONMASTER/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Porsche%20911%20Carrera%20Cabriolet/S%20Porsche%20911%20Carrera%20Cabriolet.zip",
+			"description": ""
+		},
+		{
+			"name": "PPG + Quickness",
+			"image": "https://aweu.net/MELONMASTER/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Cars/PPG%20%2B%20Quickness/V%20PPG%20%2B%20Quickness.zip",
+			"link_saves": "https://aweu.net/",
+			"description": ""
+		},
+		{
+			"name": "Range Rover Sport",
+			"image": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Sport/PPG%20%2B%20Quickness.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Sport/S%20PPG%20%2B%20Quickness.zip",
+			"description": ""
+		},
+		{
+			"name": "Range Rover Velar",
+			"image": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Velar/S%20Range%20Rover%20Velar.zip",
+			"description": ""
+		},
+		{
+			"name": "Rolls Royce",
+			"image": "https://aweu.net/MELONMASTER/Cars/Rolls%20Royce/Rolls%20Royce.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Rolls%20Royce/S%20Rolls%20Royce.zip",
+			"description": ""
+		},
+		{
+			"name": "Rolls-Royce Phantom-5",
+			"image": "https://aweu.net/MELONMASTER/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Rolls-Royce%20Phantom-5/S%20Rolls-Royce%20Phantom-5.zip",
+			"description": ""
+		},
+		{
+			"name": "Suzuki Jimny",
+			"image": "https://aweu.net/MELONMASTER/Cars/Suzuki%20Jimny/Suzuki%20Jimny.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Suzuki%20Jimny/S%20Suzuki%20Jimny.zip",
+			"description": ""
+		},
+		{
+			"name": "Tesla",
+			"image": "https://aweu.net/MELONMASTER/Cars/Tesla/Tesla.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Tesla/S%20Tesla.zip",
+			"description": ""
+		},
+		{
+			"name": "Tesla Roadster",
+			"image": "https://aweu.net/MELONMASTER/Cars/Tesla%20Roadster/Tesla%20Roadster.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Tesla%20Roadster/S%20Tesla%20Roadster.zip",
+			"description": ""
+		},
+		{
+			"name": "Toyota Hilux",
+			"image": "https://aweu.net/MELONMASTER/Cars/Toyota%20Hilux/Toyota%20Hilux.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Toyota%20Hilux/S%20Toyota%20Hilux.zip",
+			"description": ""
+		},
+		{
+			"name": "VAZ 2101",
+			"image": "https://aweu.net/MELONMASTER/Cars/VAZ%202101/VAZ%202101.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/VAZ%202101/S%20VAZ%202101.zip",
+			"description": ""
+		},
+		{
+			"name": "Volkswagen Passat",
+			"image": "https://aweu.net/MELONMASTER/Cars/Volkswagen%20Passat/Volkswagen%20Passat.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Volkswagen%20Passat/S%20Volkswagen%20Passat.zip",
+			"description": ""
+		},
+		{
+			"name": "Willys MB",
+			"image": "https://aweu.net/MELONMASTER/Cars/Willys%20MB/Willys%20MB.jpg",
+			"link_mods": "https://aweu.net/",
+			"link_saves": "https://aweu.net/MELONMASTER/Cars/Willys%20MB/S%20Willys%20MB.zip",
+			"description": ""
+		}
+	]
 }
