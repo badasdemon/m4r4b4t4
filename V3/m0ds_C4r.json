@@ -32,6 +32,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Ambulance/Ambulance.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ambulance/S%20Ambulance.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -39,6 +40,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Aston%20Martin/Aston%20Martin.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Aston%20Martin/S%20Aston%20Martin.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -46,6 +48,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Audi%2080%20b4/Audi%2080%20b4.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Audi%2080%20b4/S%20Audi%2080%20b4.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -53,6 +56,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20E%2036%20BOAR/BMW%20E%2036%20BOAR.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20E%2036%20BOAR/S%20BMW%20E%2036%20BOAR.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -60,6 +64,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20E34/BMW%20E34.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20E34/S%20BMW%20E34.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -67,6 +72,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/BMW%20M5%20F10%20by%20Maksim_4672/BMW%20M5%20F10%20by%20Maksim_4672.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/BMW%20M5%20F10%20by%20Maksim_4672/S%20BMW%20M5%20F10%20by%20Maksim_4672.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -74,6 +80,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Cadillac%20Escalade/Cadillac%20Escalade.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Cadillac%20Escalade/S%20Cadillac%20Escalade.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -81,6 +88,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Cyber%20Car/Cyber%20Car.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Cyber%20Car/S%20Cyber%20Car.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -88,6 +96,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/DeLorean%20DMC-12/DeLorean%20DMC-12.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/DeLorean%20DMC-12/S%20DeLorean%20DMC-12.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -95,6 +104,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Ford%20bronco%202022/Ford%20bronco%202022.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ford%20bronco%202022/S%20Ford%20bronco%202022.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -102,6 +112,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Ford%20GT%20Race%202016/Ford%20GT%20Race%202016.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Ford%20GT%20Race%202016/S%20Ford%20GT%20Race%202016.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -109,6 +120,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Hummer%20H3/Hummer%20H3.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hummer%20H3/S%20Hummer%20H3.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -116,6 +128,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%204/Hyundai%20Elantra%204.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%204/S%20Hyundai%20Elantra%204.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -123,6 +136,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%202021/Hyundai%20Elantra%202021.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Elantra%202021/S%20Hyundai%20Elantra%202021.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -130,6 +144,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Tucson/Hyundai%20Tucson.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Hyundai%20Tucson/S%20Hyundai%20Tucson.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -137,6 +152,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/KIA%20Cars/KIA%20Cars.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/KIA%20Cars/S%20KIA%20Cars.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -144,6 +160,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/KIA%20Soul/KIA%20Soul.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/KIA%20Soul/S%20KIA%20Soul.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -151,6 +168,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Lamborghini/Lamborghini.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Lamborghini/S%20Lamborghini.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -158,6 +176,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Lamborghini%20countach/Lamborghini%20countach.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Lamborghini%20countach/S%20Lamborghini%20countach.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -165,6 +184,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Mazda%20Miata/Mazda%20Miata.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mazda%20Miata/S%20Mazda%20Miata.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -172,6 +192,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Mercedes-AMG%20GT/Mercedes-AMG%20GT.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mercedes-AMG%20GT/S%20Mercedes-AMG%20GT.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -179,6 +200,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Mercedes-Benz%20W124/Mercedes-Benz%20W124.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Mercedes-Benz%20W124/S%20Mercedes-Benz%20W124.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -186,6 +208,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Nissan%20Skyline%20R34/Nissan%20Skyline%20R34.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Nissan%20Skyline%20R34/S%20Nissan%20Skyline%20R34.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -193,6 +216,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Nissan%20Xtrail%20t31/Nissan%20Xtrail%20t31.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Nissan%20Xtrail%20t31/S%20Nissan%20Xtrail%20t31.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -200,6 +224,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Peugeot%20306%20wagon/Peugeot%20306%20wagon.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Peugeot%20306%20wagon/S%20Peugeot%20306%20wagon.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -207,6 +232,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Pickup/Pickup.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Pickup/S%20Pickup.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -214,6 +240,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Porsche%20911/Porsche%20911.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Porsche%20911/S%20Porsche%20911.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -221,6 +248,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Porsche%20911%20Carrera%20Cabriolet/Porsche%20911%20Carrera%20Cabriolet.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Porsche%20911%20Carrera%20Cabriolet/S%20Porsche%20911%20Carrera%20Cabriolet.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -228,6 +256,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/PPG%20%2B%20Quickness/PPG%20%2B%20Quickness.jpg",
 			"link_mods": "https://aweu.net/MELONMASTER/Cars/PPG%20%2B%20Quickness/V%20PPG%20%2B%20Quickness.zip",
 			"link_saves": "https://aweu.net/",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -235,6 +264,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Sport/PPG%20%2B%20Quickness.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Sport/S%20PPG%20%2B%20Quickness.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -242,6 +272,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Velar/Range%20Rover%20Velar.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Range%20Rover%20Velar/S%20Range%20Rover%20Velar.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -249,6 +280,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Rolls%20Royce/Rolls%20Royce.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Rolls%20Royce/S%20Rolls%20Royce.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -256,6 +288,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Rolls-Royce%20Phantom-5/Rolls-Royce%20Phantom-5.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Rolls-Royce%20Phantom-5/S%20Rolls-Royce%20Phantom-5.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -263,6 +296,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Suzuki%20Jimny/Suzuki%20Jimny.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Suzuki%20Jimny/S%20Suzuki%20Jimny.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -270,6 +304,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Tesla/Tesla.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Tesla/S%20Tesla.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -277,6 +312,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Tesla%20Roadster/Tesla%20Roadster.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Tesla%20Roadster/S%20Tesla%20Roadster.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -284,6 +320,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Toyota%20Hilux/Toyota%20Hilux.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Toyota%20Hilux/S%20Toyota%20Hilux.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -291,6 +328,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/VAZ%202101/VAZ%202101.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/VAZ%202101/S%20VAZ%202101.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -298,6 +336,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Volkswagen%20Passat/Volkswagen%20Passat.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Volkswagen%20Passat/S%20Volkswagen%20Passat.zip",
+			"type": "C",
 			"description": ""
 		},
 		{
@@ -305,6 +344,7 @@
 			"image": "https://aweu.net/MELONMASTER/Cars/Willys%20MB/Willys%20MB.jpg",
 			"link_mods": "https://aweu.net/",
 			"link_saves": "https://aweu.net/MELONMASTER/Cars/Willys%20MB/S%20Willys%20MB.zip",
+			"type": "C",
 			"description": ""
 		}
 	]
