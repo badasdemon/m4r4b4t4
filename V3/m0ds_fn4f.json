@@ -46,7 +46,7 @@
 		{
 			"name": "FNAF 1",
 			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%201/FNAF%201.jpg",
-			"link_mods"MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack%20S.zip: "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%201/Bonnie%20M.zip",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%201/Bonnie%20M.zip",
 			"link_saves": "null",
 			"type": "C",
 			"description": ""
@@ -55,7 +55,7 @@
 			"name": "FNaF 1 Minipack",
 			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNaF%201%20Minipack/FNaF%201%20Minipack.jpg",
 			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNaF%201%20Minipack/FNaF%201%20Minipack%20M.zip",
-			"link_saves": "null",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack%20S.zip",
 			"type": "C",
 			"description": ""
 		},
