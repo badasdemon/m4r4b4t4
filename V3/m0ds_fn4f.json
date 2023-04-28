@@ -1,96 +1,157 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Bonnie from FNAF",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Bonnie%20from%20FNAF/Bonnie%20from%20FNAF%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Broken Freddy from FNAF 2",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Broken%20Freddy%20from%20FNAF%202/Broken%20Freddy%20from%20FNAF%202%20S.zip",
+			"description": ""
+		},
+		{
+			"name": "FNAF 1",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%201/FNAF%201.jpg",
+			"link_mods"MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack%20S.zip: "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%201/Bonnie%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "FNaF 1 Minipack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNaF%201%20Minipack/FNaF%201%20Minipack.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNaF%201%20Minipack/FNaF%201%20Minipack%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "FNAF 2",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%202/FNAF%202.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%202/FNAF%202%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "FNAF 9",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%209/FNAF%209.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%209/FNAF%209%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "FNAF Mini Pack",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNAF%20Mini%20Pack/FNAF%20Mini%20Pack%20S.zip",
+			"description": ""
+		},
+		{
+			"name": "FNF Plush",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNF%20Plush/FNF%20Plush.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/FNF%20Plush/FNF%20Plush%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Freddy from FNAF",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Freddy%20from%20FNAF/Freddy%20from%20FNAF.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Freddy%20from%20FNAF/Freddy%20from%20FNAF%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Glamrock",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Glamrock/Glemrock.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Glamrock/Glemrock%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Map from the FNaF 1",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Map%20from%20the%20FNaF%201/Map%20from%20the%20FNaF%201%20S.zip",
+			"description": ""
+		},
+		{
+			"name": "Monty from Fnaf 9",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Freddie Fazber",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20-%20Freddie%20Fazber/NPC%20-%20Freddie%20Fazber%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Golden Freddy",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20-%20Golden%20Freddy/NPC%20-%20Golden%20Freddy%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC from FNAF",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20from%20FNAF/NPC%20from%20FNAF.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20from%20FNAF/NPC%20from%20FNAF%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC Mundrop from Fnaf 9",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/NPC%20Mundrop%20from%20Fnaf%209/NPC%20Mundrop%20from%20Fnaf%209%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Security Brich",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Security%20Brich/Security%20Brich.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Security%20Brich/Security%20Brich%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sundrop",
+			"image": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Sundrop/Sundrop.jpg",
+			"link_mods": "https://aweu.net/MOD%20MELON/MARABATA/Fnaf%20Modsave/Sundrop/Sundrop%20M.zip",
+			"link_saves": "null",
+			"description": ""
+		}
+	]
 }
