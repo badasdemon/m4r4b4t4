@@ -1,96 +1,388 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Characters Sonic exe",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Characters%20Sonic%20exe/Characters%20Sonic%20exe.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Characters%20Sonic%20exe/R%20Characters%20Sonic%20exe.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Nps Sonic",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Nps%20Sonic/Nps%20Sonic.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Nps%20Sonic/R%20Nps%20Sonic.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sonic by Zewirka",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic%20by%20Zewirka/Sonic%20by%20Zewirka.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic%20by%20Zewirka/R%20Sonic%20by%20Zewirka.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sonic Classic",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic%20Classic/Sonic%20Classic.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic%20Classic/R%20Sonic%20Classic.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sonic.exe",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic.exe/Sonic.exe.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic.exe/R%20Sonic.exe.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sonic.exe 2",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic.exe%202/Sonic.exe%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/Sonic.exe%202/R%20Sonic.exe%202.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "The Hungry Eggman",
+			"image": "https://aweu.net/MELONMASTER/Sonic.exe/The%20Hungry%20Eggman/The%20Hungry%20Eggman.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Sonic.exe/The%20Hungry%20Eggman/R%20The%20Hungry%20Eggman.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Alan Becker Stick Bois",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Alan%20Becker%20Stick%20Bois/Alan%20Becker%20Stick%20Bois.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Alan%20Becker%20Stick%20Bois/R%20Alan%20Becker%20Stick%20Bois.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Pivot Style Stickman",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Pivot%20Style%20Stickman/Pivot%20Style%20Stickman.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Pivot%20Style%20Stickman/R%20Pivot%20Style%20Stickman.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stick Man Mod",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stick%20Man%20Mod/Stick%20Man%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stick%20Man%20Mod/R%20Stick%20Man%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickfigure NPC",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickfigure%20NPC/Stickfigure%20NPC.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickfigure%20NPC/R%20Stickfigure%20NPC.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickman for Melon",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20for%20Melon/Stickman%20for%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickman%20for%20Melon/R%20Stickman%20for%20Melon.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickman Old Memes",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Old%20Memes/Stickman%20Old%20Memes.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Old%20Memes/R%20Stickman%20Old%20Memes.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickman Pack",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Pack/Stickman%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Pack/R%20Stickman%20Pack.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickman Pashka",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Pashka/Stickman%20Pashka.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Pashka/R%20Stickman%20Pashka.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickman Playground",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Playground/Stickman%20Playground.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Stickman/Stickman%20Playground/S%20Stickman%20Playground.zip",
+			"description": ""
+		},
+		{
+			"name": "Stickman SRP",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickman%20SRP/Stickman%20SRP.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickman%20SRP/R%20Stickman%20SRP.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Stickmans Mod by Hankjay",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Stickmans%20Mod%20by%20Hankjay/Stickmans%20Mod%20by%20Hankjay.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Stickmans%20Mod%20by%20Hankjay/R%20Stickmans%20Mod%20by%20Hankjay.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Updated Pivot Style Stickfigure",
+			"image": "https://aweu.net/MELONMASTER/Stickman/Updated%20Pivot%20Style%20Stickfigure/Updated%20Pivot%20Style%20Stickfigure.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Stickman/Updated%20Pivot%20Style%20Stickfigure/R%20Updated%20Pivot%20Style%20Stickfigure.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Batman  V Superman",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Batman%20%20V%20Superman/Batman%20%20V%20Superman.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Batman%20%20V%20Superman/S%20Batman%20%20V%20Superman.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Black Thunder",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Black%20Thunder/Black%20Thunder.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Black%20Thunder/R%20Black%20Thunder.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Captain America",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Captain%20America/Captain%20America.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Captain%20America/R%20Captain%20America.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Comics Juggernaut",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Comics%20Juggernaut/Comics%20Juggernaut.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Comics%20Juggernaut/R%20Comics%20Juggernaut.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Deadpool Mod",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Deadpool%20Mod/Deadpool%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Deadpool%20Mod/R%20Deadpool%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Iron Man (Mark3)",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20(Mark3)/Iron%20Man%20(Mark3).jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20(Mark3)/R%20Iron%20Man%20(Mark3).zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Iron Man and Suitcase",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20and%20Suitcase/Iron%20Man%20and%20Suitcase.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20and%20Suitcase/R%20Iron%20Man%20and%20Suitcase.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Iron Man costumes",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20costumes/Iron%20Man%20costumes.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20costumes/R%20Iron%20Man%20costumes.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Iron Man Mark 4",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20Mark%204/Iron%20Man%20Mark%204.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Iron%20Man%20Mark%204/R%20Iron%20Man%20Mark%204.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Batman",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Batman/NPC%20-%20Batman.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Batman/R%20NPC%20-%20Batman.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Batman 2",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Batman%202/NPC%20-%20Batman%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Batman%202/R%20NPC%20-%20Batman%202.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Captain America",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Captain%20America/NPC%20-%20Captain%20America.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Captain%20America/R%20NPC%20-%20Captain%20America.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Deadpool",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Deadpool/NPC%20-%20Deadpool.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Deadpool/R%20NPC%20-%20Deadpool.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Hulk",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Hulk/NPC%20-%20Hulk.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Hulk/R%20NPC%20-%20Hulk.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Iron Man",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Iron%20Man/NPC%20-%20Iron%20Man.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Iron%20Man/R%20NPC%20-%20Iron%20Man.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Man - Ant",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Man%20-%20Ant/NPC%20-%20Man%20-%20Ant.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Man%20-%20Ant/R%20NPC%20-%20Man%20-%20Ant.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Rhino",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Rhino/NPC%20-%20Rhino.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Rhino/R%20NPC%20-%20Rhino.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Spider Man",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Spider-Man/NPC%20-%20Spider-Man.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Spider-Man/R%20NPC%20-%20Spider-Man.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Superman",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman/NPC%20-%20Superman.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman/R%20NPC%20-%20Superman.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Superman 2",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman%202/NPC%20-%20Superman%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman%202/R%20NPC%20-%20Superman%202.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Superman 3",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman%203/NPC%20-%20Superman%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Superman%203/R%20NPC%20-%20Superman%203.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC - Thor",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Thor/NPC%20-%20Thor.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20-%20Thor/R%20NPC%20-%20Thor.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC Black Panther",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20Black%20Panther/NPC%20Black%20Panther.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20Black%20Panther/R%20NPC%20Black%20Panther.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC Deadpool",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20Deadpool/NPC%20Deadpool.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20Deadpool/R%20NPC%20Deadpool.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPC pack for Iron Man",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPC%20pack%20for%20Iron%20Man/NPC%20pack%20for%20Iron%20Man.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPC%20pack%20for%20Iron%20Man/R%20NPC%20pack%20for%20Iron%20Man.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "NPS - Taskmaster",
+			"image": "https://aweu.net/MELONMASTER/Superhero/NPS%20-%20Taskmaster/NPS%20-%20Taskmaster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/NPS%20-%20Taskmaster/R%20NPS%20-%20Taskmaster.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Pack on Spider Man",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Pack%20on%20Spider-Man/Pack%20on%20Spider-Man.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Pack%20on%20Spider-Man/R%20Pack%20on%20Spider-Man.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Spider Man NPC Mod",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Spider%20Man%20NPC%20Mod/Spider%20Man%20NPC%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Spider%20Man%20NPC%20Mod/R%20Spider%20Man%20NPC%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Spiderman Miles Moralization",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Spiderman%20Miles%20Moralization/Spiderman%20Miles%20Moralization.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Spiderman%20Miles%20Moralization/R%20Spiderman%20Miles%20Moralization.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Superman",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Superman/Superman.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Superhero/Superman/S%20Superman.zip",
+			"description": ""
+		},
+		{
+			"name": "Tobey Maguire Spiderman mod",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Tobey%20Maguire%20Spiderman%20mod/Tobey%20Maguire%20Spiderman%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Tobey%20Maguire%20Spiderman%20mod/R%20Tobey%20Maguire%20Spiderman%20mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Tokyo Avengers",
+			"image": "https://aweu.net/MELONMASTER/Superhero/Tokyo%20Avengers/Tokyo%20Avengers.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Superhero/Tokyo%20Avengers/R%20Tokyo%20Avengers.zip",
+			"link_saves": "null",
+			"description": ""
+		}
+	]
 }
