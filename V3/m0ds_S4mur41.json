@@ -1,96 +1,332 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "A Sword Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/A%20Sword%20Mod/A%20Sword%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/A%20Sword%20Mod/R%20A%20Sword%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Ancient Samurai v1",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Ancient%20Samurai%20v1/Ancient%20Samurai%20v1.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Ancient%20Samurai%20v1/R%20Ancient%20Samurai%20v1.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Ancient Samurai v2",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Ancient%20Samurai%20v2/Ancient%20Samurai%20v2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Ancient%20Samurai%20v2/R%20Ancient%20Samurai%20v2.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Another Enma",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Another%20Enma/Another%20Enma.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Another%20Enma/R%20Another%20Enma.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Arsenal Endbringer",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Arsenal%20Endbringer/Arsenal%20Endbringer.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Arsenal%20Endbringer/R%20Arsenal%20Endbringer.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Blue Katana Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Blue%20Katana%20Mod/Blue%20Katana%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Blue%20Katana%20Mod/R%20Blue%20Katana%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Cursed Blood Katana",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Cursed%20Blood%20Katana/Cursed%20Blood%20Katana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Cursed%20Blood%20Katana/R%20Cursed%20Blood%20Katana.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Dark Samurai",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Dark%20Samurai/Dark%20Samurai.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Dark%20Samurai/R%20Dark%20Samurai.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Energy Katana",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Energy%20Katana/Energy%20Katana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Energy%20Katana/R%20Energy%20Katana.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Full 3ss Sword Style",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Full%203ss%20Sword%20Style/Full%203ss%20Sword%20Style.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Full%203ss%20Sword%20Style/R%20Full%203ss%20Sword%20Style.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Golden Bushido Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Golden%20Bushido%20Mod/Golden%20Bushido%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Golden%20Bushido%20Mod/R%20Golden%20Bushido%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Golden Katana",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Golden%20Katana/Golden%20Katana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Golden%20Katana/R%20Golden%20Katana.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Japanese culture",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Japanese%20culture/Japanese%20culture.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Japanese%20culture/S%20Japanese%20culture.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Japanese Future Samurai",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Japanese%20Future%20Samurai/Japanese%20Future%20Samurai.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Japanese%20Future%20Samurai/R%20Japanese%20Future%20Samurai.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Japanese Samurai",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Japanese%20Samurai/Japanese%20Samurai.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Japanese%20Samurai/R%20Japanese%20Samurai.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Katana Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Katana%20Mod/Katana%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Katana%20Mod/R%20Katana%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Kendo Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Kendo%20Sword/Kendo%20Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Kendo%20Sword/R%20Kendo%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Kikoku",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Kikoku/Kikoku.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Kikoku/R%20Kikoku.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Melon black knight",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Melon%20black%20knight/Melon%20black%20knight.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Melon%20black%20knight/R%20melon%20black%20knight.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "MIGHTY GUM-GUM FRUIT",
+			"image": "https://aweu.net/MELONMASTER/Samurai/MIGHTY%20GUM-GUM%20FRUIT/MIGHTY%20GUM-GUM%20FRUIT.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/MIGHTY%20GUM-GUM%20FRUIT/R%20MIGHTY%20GUM-GUM%20FRUIT.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Mihawk Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Mihawk%20Sword/Mihawk%20Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Mihawk%20Sword/R%20Mihawk%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Mods Samurai",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Mods%20Samurai/Mods%20Samurai.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Mods%20Samurai/R%20Mods%20Samurai.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Naginata",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Naginata/Naginata.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Naginata/R%20Naginata.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Nichirin Katana",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Nichirin%20Katana/Nichirin%20Katana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Nichirin%20Katana/R%20Nichirin%20Katana.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Outcast Samurai",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Outcast%20Samurai/Outcast%20Samurai.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Outcast%20Samurai/R%20Outcast%20Samurai.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Pack on weapons",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Pack%20on%20weapons/Pack%20on%20weapons.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Pack%20on%20weapons/S%20Pack%20on%20weapons.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Pak on cold weapons",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Pak%20on%20cold%20weapons/Pak%20on%20cold%20weapons.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Pak%20on%20cold%20weapons/S%20Pak%20on%20cold%20weapons.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Ronin's Katana Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Ronin's%20Katana%20Mod/Ronin's%20Katana%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Ronin's%20Katana%20Mod/R%20Ronins%20Katana%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Samurai Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Samurai%20Mod/Samurai%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Samurai%20Mod/R%20Samurai%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Samurai n Ronin Katana",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Samurai%20n%20Ronin%20Katana/Samurai%20n%20Ronin%20Katana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Samurai%20n%20Ronin%20Katana/R%20Samurai%20n%20Ronin%20Katana.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Samurai Pack",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Samurai%20Pack/Samurai%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Samurai%20Pack/R%20Samurai%20Pack.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sandai Kitetsu",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Sandai%20Kitetsu/Sandai%20Kitetsu.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Sandai%20Kitetsu/R%20Sandai%20Kitetsu.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Shanks Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Shanks%20Sword/Shanks%20Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Shanks%20Sword/R%20Shanks%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Shogun",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Shogun/Shogun.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Shogun/R%20Shogun.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Sword/Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Sword/R%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Tangiro",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Tangiro/Tangiro.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Tangiro/R%20Tangiro.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Tanjiro Katana v2",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Tanjiro%20Katana%20v2/Tanjiro%20Katana%20v2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Tanjiro%20Katana%20v2/R%20Tanjiro%20Katana%20v2.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Tomioka Giyus Nichirin Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Tomioka%20Giyus%20Nichirin%20Sword/Tomioka%20Giyuus%20Nichirin%20Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Tomioka%20Giyus%20Nichirin%20Sword/R%20Tomioka%20Giyuus%20Nichirin%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Uzui Tengens Nichirin Sword",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Uzui%20Tengens%20Nichirin%20Sword/Uzui%20Tengens%20Nichirin%20Sword.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Uzui%20Tengens%20Nichirin%20Sword/R%20Uzui%20Tengens%20Nichirin%20Sword.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Wado Ichimonji",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Wado%20Ichimonji/Wado%20Ichimonji.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Wado%20Ichimonji/R%20Wado%20Ichimonji.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Yoriichi",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Yoriichi/Yoriichi.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Yoriichi/R%20Yoriichi.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Yoriichi Character",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Yoriichi%20Character/Yoriichi%20Character.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Yoriichi%20Character/R%20Yoriichi%20Character.zip",
+			"link_saves": "null",
+			"description": ""
+		},
+		{
+			"name": "Zenitsu Mod",
+			"image": "https://aweu.net/MELONMASTER/Samurai/Zenitsu%20Mod/Zenitsu%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Samurai/Zenitsu%20Mod/R%20Zenitsu%20Mod.zip",
+			"link_saves": "null",
+			"description": ""
+		}
+	]
 }
