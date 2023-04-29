@@ -14,7 +14,7 @@
 			"open_ads_admob": "ca-app-pub-4911992248615168/5330967043",
 			"open_ads_alien": "",
 			"open_ads_max": "1",
-			"interval_intertitial": 5,
+			"interval_intertitial": 2,
 			"initialize_sdk": "185625455",
 			"initialize_sdk_backup_ads": "185625455",
 			"high_paying_keyword_1": "",
