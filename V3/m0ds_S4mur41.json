@@ -1,17 +1,17 @@
 {
 	"Ads": [
 		{
-			"select_main_ads": "ADMOB",
+			"select_main_ads": "IRON",
 			"select_backup_ads": "IRON",
-			"main_ads_banner": "ca-app-pub-4911992248615168/7936546134",
-			"main_ads_intertitial": "ca-app-pub-4911992248615168/5907496200",
-			"main_ads_natives": "ca-app-pub-4911992248615168/4131380104",
-			"main_ads_rewards": "ca-app-pub-4911992248615168/2024091514",
+			"main_ads_banner": "",
+			"main_ads_intertitial": "",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
 			"backup_ads_natives": "",
 			"backup_ads_banner": "",
 			"backup_ads_intertitial": "",
 			"backup_ads_rewards": "",
-			"open_ads_admob": "ca-app-pub-4911992248615168/1371137784",
+			"open_ads_admob": "",
 			"open_ads_alien": "",
 			"open_ads_max": "1",
 			"interval_intertitial": 1,
